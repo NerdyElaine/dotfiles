@@ -1,0 +1,1513 @@
+2026-02-18T07:00:02 exception: Failed to access /Volumes/Music: No such file or directory
+2026-02-18T07:00:02 exception: Failed to open "/Users/elaine/.mpd/mpdstate": No such file or directory
+2026-02-18T07:00:02 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-18T07:00:02 config: option "auto_resample" on line 32 was not recognized
+2026-02-18T07:00:02 config: option "use_mmap" on line 33 was not recognized
+2026-02-18T07:03:34 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-18T07:03:34 config: option "auto_resample" on line 32 was not recognized
+2026-02-18T07:03:34 config: option "use_mmap" on line 33 was not recognized
+2026-02-18T07:29:28 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-18T07:29:34 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-18T07:31:29 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-18T19:17:17 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-18T19:17:24 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-18T19:17:28 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-18T19:19:30 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-18T19:19:58 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-18T19:22:51 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-18T19:22:56 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-18T19:23:14 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-19T19:09:18 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-21T08:05:06 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-21T11:04:53 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T11:04:53 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T11:04:53 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T11:25:39 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T11:25:45 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T11:25:45 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T11:25:45 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/01 - Running Up That Hill (A Deal With God).flac
+2026-02-21T11:25:45 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/02 - Hounds of Love.flac
+2026-02-21T11:25:45 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/03 - The Big Sky.flac
+2026-02-21T11:25:45 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/04 - Mother Stands for Comfort.flac
+2026-02-21T11:25:45 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/05 - Cloudbusting.flac
+2026-02-21T11:25:45 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/06 - And Dream of Sheep.flac
+2026-02-21T11:25:45 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/07 - Under Ice.flac
+2026-02-21T11:25:45 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/08 - Waking the Witch.flac
+2026-02-21T11:25:45 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/09 - Watching You Without Me.flac
+2026-02-21T11:25:45 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/10 - Jig of Life.flac
+2026-02-21T11:25:45 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/11 - Hello Earth.flac
+2026-02-21T11:25:45 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/12 - The Morning Fog.flac
+2026-02-21T11:25:45 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T11:25:45 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0012
+2026-02-21T11:25:45 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0011
+2026-02-21T11:25:45 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0010
+2026-02-21T11:25:45 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0009
+2026-02-21T11:25:45 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0008
+2026-02-21T11:25:45 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0007
+2026-02-21T11:25:45 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0006
+2026-02-21T11:25:45 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0005
+2026-02-21T11:25:45 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0004
+2026-02-21T11:25:45 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0003
+2026-02-21T11:25:45 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0002
+2026-02-21T11:25:45 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0001
+2026-02-21T11:25:52 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T11:25:58 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:25:58 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:25:58 player: problems opening audio device while playing "Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/01 - Running Up That Hill (A Deal With God).flac"
+2026-02-21T11:26:18 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:18 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:26 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:26 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:26 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:26 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:26 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:26 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:27 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:27 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:29 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:29 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:29 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:29 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:32 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:32 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:32 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:32 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:59 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:26:59 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:00 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:00 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:02 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:02 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:02 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:02 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:03 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:03 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:03 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:03 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:04 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:04 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:04 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:04 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:04 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:04 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:04 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:04 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:04 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:04 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:05 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:05 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:05 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:05 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:18 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:36 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:36 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:38 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:38 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:38 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:38 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:38 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:38 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:39 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:39 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:39 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:39 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:39 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:27:39 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:28:46 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:28:46 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:28:46 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:28:46 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:28:46 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:28:46 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:28:46 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:28:46 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:28:47 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:28:47 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:00 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T11:29:02 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T11:29:56 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:56 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:56 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:56 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:56 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:56 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:58 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:58 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:58 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:58 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:59 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:59 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:59 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:29:59 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:06 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:06 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:07 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:07 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:07 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:07 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:07 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:07 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:07 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:07 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:16 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:16 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:17 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:17 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:18 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:18 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:18 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:18 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:18 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:18 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:22 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:22 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:22 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:22 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:22 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:22 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:22 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:22 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:30 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:30:31 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:32:28 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:32:28 exception: Failed to enable output "My OS X Device" (osx); Found no audio device names "Built-in Output"
+2026-02-21T11:35:12 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T11:35:12 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T11:35:15 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T11:35:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0012
+2026-02-21T11:35:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0011
+2026-02-21T11:35:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0010
+2026-02-21T11:35:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0009
+2026-02-21T11:35:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0008
+2026-02-21T11:35:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0007
+2026-02-21T11:35:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0006
+2026-02-21T11:35:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0005
+2026-02-21T11:35:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0004
+2026-02-21T11:35:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0003
+2026-02-21T11:35:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0002
+2026-02-21T11:35:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0001
+2026-02-21T11:35:25 player: played "Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/01 - Running Up That Hill (A Deal With God).flac"
+2026-02-21T11:35:26 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-21T11:35:33 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T11:35:33 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T11:35:33 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T11:35:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0012
+2026-02-21T11:35:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0011
+2026-02-21T11:35:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0010
+2026-02-21T11:35:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0009
+2026-02-21T11:35:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0008
+2026-02-21T11:35:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0007
+2026-02-21T11:35:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0006
+2026-02-21T11:35:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0005
+2026-02-21T11:35:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0004
+2026-02-21T11:35:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0003
+2026-02-21T11:35:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0002
+2026-02-21T11:35:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0001
+2026-02-21T11:38:42 player: played "Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/02 - Hounds of Love.flac"
+2026-02-21T12:11:24 player: played "Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/01 - Running Up That Hill (A Deal With God).flac"
+2026-02-21T12:16:07 player: played "Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/03 - The Big Sky.flac"
+2026-02-21T12:16:10 update: added Lift Your Skinny Fists Like Antennas to Heaven/01 Antennas to Heaven.flac
+2026-02-21T12:16:10 update: added Lift Your Skinny Fists Like Antennas to Heaven/02 Sleep.flac
+2026-02-21T12:16:10 update: added Lift Your Skinny Fists Like Antennas to Heaven/03 Static.flac
+2026-02-21T12:16:10 update: added Lift Your Skinny Fists Like Antennas to Heaven/04 Storm.flac
+2026-02-21T12:16:10 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T12:16:10 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T12:16:10 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T12:16:10 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0012
+2026-02-21T12:16:10 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0011
+2026-02-21T12:16:10 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0010
+2026-02-21T12:16:10 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0009
+2026-02-21T12:16:10 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0008
+2026-02-21T12:16:10 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0007
+2026-02-21T12:16:10 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0006
+2026-02-21T12:16:10 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0005
+2026-02-21T12:16:10 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0004
+2026-02-21T12:16:10 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0003
+2026-02-21T12:16:10 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0002
+2026-02-21T12:16:10 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0001
+2026-02-21T12:16:19 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T12:16:30 player: played "Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/04 - Mother Stands for Comfort.flac"
+2026-02-21T12:16:30 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:30 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:30 player: problems opening audio device while playing "Lift Your Skinny Fists Like Antennas to Heaven/02 Sleep.flac"
+2026-02-21T12:16:40 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:40 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:41 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:41 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:41 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:41 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:41 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:41 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:41 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:41 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:42 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:42 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:42 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:42 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:42 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:42 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:43 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:43 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:43 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:43 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:43 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:43 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:44 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:44 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:44 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:44 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:48 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T12:16:48 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T12:16:48 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T12:16:48 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0012
+2026-02-21T12:16:48 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0011
+2026-02-21T12:16:48 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0010
+2026-02-21T12:16:48 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0009
+2026-02-21T12:16:48 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0008
+2026-02-21T12:16:48 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0007
+2026-02-21T12:16:48 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0006
+2026-02-21T12:16:48 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0005
+2026-02-21T12:16:48 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0004
+2026-02-21T12:16:48 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0003
+2026-02-21T12:16:48 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0002
+2026-02-21T12:16:48 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0001
+2026-02-21T12:16:59 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:16:59 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:01 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:01 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:01 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:01 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:02 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:02 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:03 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T12:17:07 player: played "Lift Your Skinny Fists Like Antennas to Heaven/04 Storm.flac"
+2026-02-21T12:17:07 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:07 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:07 player: problems opening audio device while playing "Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/01 - Running Up That Hill (A Deal With God).flac"
+2026-02-21T12:17:09 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:09 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:09 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:09 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:09 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:09 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:10 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:10 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:10 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:10 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:10 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:10 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:10 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:10 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:10 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:10 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:14 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:14 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:14 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:14 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:15 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:15 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:15 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:15 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:15 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:15 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:15 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:15 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:15 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:15 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:16 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:16 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:16 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:16 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:16 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:16 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:17 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:18 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:17:18 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:18:17 player: played "Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/02 - Hounds of Love.flac"
+2026-02-21T12:18:18 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-21T12:18:20 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T12:18:20 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T12:18:20 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T12:18:20 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0012
+2026-02-21T12:18:20 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0011
+2026-02-21T12:18:20 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0010
+2026-02-21T12:18:20 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0009
+2026-02-21T12:18:20 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0008
+2026-02-21T12:18:20 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0007
+2026-02-21T12:18:20 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0006
+2026-02-21T12:18:20 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0005
+2026-02-21T12:18:20 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0004
+2026-02-21T12:18:20 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0003
+2026-02-21T12:18:20 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0002
+2026-02-21T12:18:20 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0001
+2026-02-21T12:18:28 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T12:18:31 player: played "Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/01 - Running Up That Hill (A Deal With God).flac"
+2026-02-21T12:51:22 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T12:51:30 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T12:51:30 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T12:51:30 update: added 2004 - i/The Magnetic Fields - i (2004) - 01 - I Die.flac
+2026-02-21T12:51:30 update: added 2004 - i/The Magnetic Fields - i (2004) - 02 - I Don't Believe You.flac
+2026-02-21T12:51:30 update: added 2004 - i/The Magnetic Fields - i (2004) - 03 - I Don't Really Love You Anymore.flac
+2026-02-21T12:51:30 update: added 2004 - i/The Magnetic Fields - i (2004) - 04 - I Looked All Over Town.flac
+2026-02-21T12:51:30 update: added 2004 - i/The Magnetic Fields - i (2004) - 05 - I Thought You Were My Boyfriend.flac
+2026-02-21T12:51:31 update: added 2004 - i/The Magnetic Fields - i (2004) - 06 - I Was Born.flac
+2026-02-21T12:51:31 update: added 2004 - i/The Magnetic Fields - i (2004) - 07 - I Wish I Had An Evil Twin.flac
+2026-02-21T12:51:31 update: added 2004 - i/The Magnetic Fields - i (2004) - 08 - If There's Such A Thing As Love.flac
+2026-02-21T12:51:31 update: added 2004 - i/The Magnetic Fields - i (2004) - 09 - I'm Tongue-Tied.flac
+2026-02-21T12:51:31 update: added 2004 - i/The Magnetic Fields - i (2004) - 10 - In An Operetta.flac
+2026-02-21T12:51:31 update: added 2004 - i/The Magnetic Fields - i (2004) - 11 - Infinitely Late At Night.flac
+2026-02-21T12:51:31 update: added 2004 - i/The Magnetic Fields - i (2004) - 12 - Irma.flac
+2026-02-21T12:51:31 update: added 2004 - i/The Magnetic Fields - i (2004) - 13 - Is This What They Used To Call Love.flac
+2026-02-21T12:51:31 update: added 2004 - i/The Magnetic Fields - i (2004) - 14 - It's Only Time.flac
+2026-02-21T12:51:31 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T12:51:31 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0012
+2026-02-21T12:51:31 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0011
+2026-02-21T12:51:31 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0010
+2026-02-21T12:51:31 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0009
+2026-02-21T12:51:31 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0008
+2026-02-21T12:51:31 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0007
+2026-02-21T12:51:31 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0006
+2026-02-21T12:51:31 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0005
+2026-02-21T12:51:31 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0004
+2026-02-21T12:51:31 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0003
+2026-02-21T12:51:31 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0002
+2026-02-21T12:51:31 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0001
+2026-02-21T12:51:31 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T12:51:31 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T12:52:20 player: played "Lift Your Skinny Fists Like Antennas to Heaven/02 Sleep.flac"
+2026-02-21T12:52:20 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:52:20 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:52:20 player: problems opening audio device while playing "2004 - i/The Magnetic Fields - i (2004) - 05 - I Thought You Were My Boyfriend.flac"
+2026-02-21T12:52:29 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:52:29 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:52:29 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:52:29 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:52:29 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:52:29 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:52:29 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:52:29 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-21T12:52:34 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T12:52:35 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T12:52:35 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T12:52:35 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0012
+2026-02-21T12:52:35 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0011
+2026-02-21T12:52:35 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0010
+2026-02-21T12:52:35 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0009
+2026-02-21T12:52:35 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0008
+2026-02-21T12:52:35 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0007
+2026-02-21T12:52:35 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0006
+2026-02-21T12:52:35 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0005
+2026-02-21T12:52:35 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0004
+2026-02-21T12:52:35 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0003
+2026-02-21T12:52:35 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0002
+2026-02-21T12:52:35 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0001
+2026-02-21T12:52:35 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T12:52:35 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T12:52:48 player: played "2004 - i/The Magnetic Fields - i (2004) - 05 - I Thought You Were My Boyfriend.flac"
+2026-02-21T12:52:49 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-21T12:52:50 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T12:52:50 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T13:00:10 player: played "2004 - i/The Magnetic Fields - i (2004) - 05 - I Thought You Were My Boyfriend.flac"
+2026-02-21T13:00:32 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T13:00:32 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T13:00:32 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T13:00:33 update: added 1974.Kimono_My_House/01.This_Town_Ain't_Big_Enough_for_Both_of_Us.flac
+2026-02-21T13:00:33 update: added 1974.Kimono_My_House/02.Amateur_Hour.flac
+2026-02-21T13:00:33 update: added 1974.Kimono_My_House/03.Falling_in_Love_With_Myself_Again.flac
+2026-02-21T13:00:33 update: added 1974.Kimono_My_House/04.Here_in_Heaven.flac
+2026-02-21T13:00:33 update: added 1974.Kimono_My_House/05.Thank_God_It's_Not_Christmas.flac
+2026-02-21T13:00:33 update: added 1974.Kimono_My_House/06.Hasta_Manana_Monsieur.flac
+2026-02-21T13:00:33 update: added 1974.Kimono_My_House/07.Talent_Is_an_Asset.flac
+2026-02-21T13:00:33 update: added 1974.Kimono_My_House/08.Complaints.flac
+2026-02-21T13:00:33 update: added 1974.Kimono_My_House/09.In_My_Family.flac
+2026-02-21T13:00:33 update: added 1974.Kimono_My_House/10.Equator.flac
+2026-02-21T13:00:33 update: added 1974.Kimono_My_House/11.Barbecutie.flac
+2026-02-21T13:00:33 update: added 1974.Kimono_My_House/12.Lost_and_Found.flac
+2026-02-21T13:00:33 update: added 1974.Kimono_My_House/13.Amateur_Hour_(live).flac
+2026-02-21T13:00:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0012
+2026-02-21T13:00:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0011
+2026-02-21T13:00:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0010
+2026-02-21T13:00:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0009
+2026-02-21T13:00:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0008
+2026-02-21T13:00:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0007
+2026-02-21T13:00:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0006
+2026-02-21T13:00:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0005
+2026-02-21T13:00:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0004
+2026-02-21T13:00:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0003
+2026-02-21T13:00:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0002
+2026-02-21T13:00:33 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0001
+2026-02-21T13:00:33 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T13:00:33 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T13:00:37 player: played "2004 - i/The Magnetic Fields - i (2004) - 06 - I Was Born.flac"
+2026-02-21T13:00:39 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-21T13:00:40 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T13:00:40 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T13:00:45 player: played "2004 - i/The Magnetic Fields - i (2004) - 06 - I Was Born.flac"
+2026-02-21T13:03:51 player: played "1974.Kimono_My_House/01.This_Town_Ain't_Big_Enough_for_Both_of_Us.flac"
+2026-02-21T13:07:29 player: played "1974.Kimono_My_House/02.Amateur_Hour.flac"
+2026-02-21T13:10:33 player: played "1974.Kimono_My_House/03.Falling_in_Love_With_Myself_Again.flac"
+2026-02-21T13:13:21 player: played "1974.Kimono_My_House/04.Here_in_Heaven.flac"
+2026-02-21T13:18:29 player: played "1974.Kimono_My_House/05.Thank_God_It's_Not_Christmas.flac"
+2026-02-21T13:22:21 player: played "1974.Kimono_My_House/06.Hasta_Manana_Monsieur.flac"
+2026-02-21T13:25:43 player: played "1974.Kimono_My_House/07.Talent_Is_an_Asset.flac"
+2026-02-21T13:29:19 player: played "1974.Kimono_My_House/08.Complaints.flac"
+2026-02-21T13:33:07 player: played "1974.Kimono_My_House/09.In_My_Family.flac"
+2026-02-21T13:40:50 player: played "1974.Kimono_My_House/10.Equator.flac"
+2026-02-21T13:48:45 player: played "2004 - i/The Magnetic Fields - i (2004) - 05 - I Thought You Were My Boyfriend.flac"
+2026-02-21T13:48:57 player: played "2004 - i/The Magnetic Fields - i (2004) - 06 - I Was Born.flac"
+2026-02-21T13:49:02 player: played "Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/01 - Running Up That Hill (A Deal With God).flac"
+2026-02-21T15:52:05 player: played "Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/05 - Cloudbusting.flac"
+2026-02-21T15:52:06 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-21T15:52:20 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T15:52:31 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T15:52:31 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T15:52:32 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T15:52:32 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0012
+2026-02-21T15:52:32 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0011
+2026-02-21T15:52:32 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0010
+2026-02-21T15:52:32 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0009
+2026-02-21T15:52:32 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0008
+2026-02-21T15:52:32 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0007
+2026-02-21T15:52:32 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0006
+2026-02-21T15:52:32 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0005
+2026-02-21T15:52:32 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0004
+2026-02-21T15:52:32 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0003
+2026-02-21T15:52:32 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0002
+2026-02-21T15:52:32 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0001
+2026-02-21T15:53:19 player: played "Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/05 - Cloudbusting.flac"
+2026-02-21T15:53:21 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-21T15:53:25 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T15:53:29 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T15:53:29 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T15:53:29 update: added Oingo Boingo - Dead Man's Party/01 Just Another Day.flac
+2026-02-21T15:53:29 update: added Oingo Boingo - Dead Man's Party/02 Dead Man’s Party.flac
+2026-02-21T15:53:29 update: added Oingo Boingo - Dead Man's Party/03 Heard Somebody Cry.flac
+2026-02-21T15:53:29 update: added Oingo Boingo - Dead Man's Party/04 No One Lives Forever.flac
+2026-02-21T15:53:29 update: added Oingo Boingo - Dead Man's Party/05 Stay.flac
+2026-02-21T15:53:29 update: added Oingo Boingo - Dead Man's Party/06 Fool’s Paradise.flac
+2026-02-21T15:53:29 update: added Oingo Boingo - Dead Man's Party/07 Help Me.flac
+2026-02-21T15:53:29 update: added Oingo Boingo - Dead Man's Party/08 Same Man I Was Before.flac
+2026-02-21T15:53:29 update: added Oingo Boingo - Dead Man's Party/09 Weird Science.flac
+2026-02-21T15:53:29 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T15:53:29 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0012
+2026-02-21T15:53:29 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0011
+2026-02-21T15:53:29 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0010
+2026-02-21T15:53:29 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0009
+2026-02-21T15:53:29 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0008
+2026-02-21T15:53:29 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0007
+2026-02-21T15:53:29 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0006
+2026-02-21T15:53:29 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0005
+2026-02-21T15:53:29 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0004
+2026-02-21T15:53:29 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0003
+2026-02-21T15:53:29 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0002
+2026-02-21T15:53:29 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0001
+2026-02-21T15:54:12 player: played "Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/05 - Cloudbusting.flac"
+2026-02-21T15:54:44 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T15:59:00 player: played "Oingo Boingo - Dead Man's Party/08 Same Man I Was Before.flac"
+2026-02-21T16:21:05 player: played "Oingo Boingo - Dead Man's Party/09 Weird Science.flac"
+2026-02-21T16:21:53 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-21T16:21:53 exception: Failed to decode "/Users/elaine/Music/Oingo Boingo - Dead Man's Party/09 Weird Science.flac"; Failed to open "/Users/elaine/Music/Oingo Boingo - Dead Man's Party/09 Weird Science.flac": No such file or directory
+2026-02-21T16:21:53 player: played "Oingo Boingo - Dead Man's Party/09 Weird Science.flac"
+2026-02-21T16:26:18 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T16:26:18 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T16:26:19 update: added async/01. andata.flac
+2026-02-21T16:26:19 update: added async/02. disintegration.flac
+2026-02-21T16:26:19 update: added async/03. solari.flac
+2026-02-21T16:26:19 update: added async/04. ZURE.flac
+2026-02-21T16:26:19 update: added async/05. walker.flac
+2026-02-21T16:26:19 update: added async/06. stakra.flac
+2026-02-21T16:26:19 update: added async/07. ubi.flac
+2026-02-21T16:26:19 update: added async/08. fullmoon.flac
+2026-02-21T16:26:19 update: added async/09. async.flac
+2026-02-21T16:26:19 update: added async/10. tri.flac
+2026-02-21T16:26:19 update: added async/11. LIFE, LIFE.flac
+2026-02-21T16:26:19 update: added async/12. honj.flac
+2026-02-21T16:26:19 update: added async/13. ff.flac
+2026-02-21T16:26:19 update: added async/14. garden.flac
+2026-02-21T16:26:19 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T16:26:19 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/01 - A Day A Gorilla Gives A Banana.flac
+2026-02-21T16:26:19 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/02 - Rain.flac
+2026-02-21T16:26:19 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/03 - Bibo no Aozora.flac
+2026-02-21T16:26:19 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/04 - The Last Emperor.flac
+2026-02-21T16:26:19 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/05 - 1919.flac
+2026-02-21T16:26:19 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/06 - Merry Christmas Mr. Lawrence.flac
+2026-02-21T16:26:19 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/07 - M.A.Y. In The Backyard.flac
+2026-02-21T16:26:19 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/08 - The Sheltering Sky.flac
+2026-02-21T16:26:19 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/09 - A Tribute To N.J.P..flac
+2026-02-21T16:26:19 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/10 - High Heels (Main Theme).flac
+2026-02-21T16:26:19 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/11 - Aoneko no Torso.flac
+2026-02-21T16:26:19 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/12 - The Wuthering Heights.flac
+2026-02-21T16:26:19 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0012
+2026-02-21T16:26:19 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0011
+2026-02-21T16:26:19 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0010
+2026-02-21T16:26:19 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0009
+2026-02-21T16:26:19 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0008
+2026-02-21T16:26:19 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0007
+2026-02-21T16:26:19 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0006
+2026-02-21T16:26:19 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0005
+2026-02-21T16:26:19 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0004
+2026-02-21T16:26:19 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0003
+2026-02-21T16:26:19 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0002
+2026-02-21T16:26:19 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0001
+2026-02-21T16:26:19 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0012
+2026-02-21T16:26:19 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0011
+2026-02-21T16:26:19 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0010
+2026-02-21T16:26:19 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0009
+2026-02-21T16:26:19 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0008
+2026-02-21T16:26:19 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0007
+2026-02-21T16:26:19 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0006
+2026-02-21T16:26:19 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0005
+2026-02-21T16:26:19 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0004
+2026-02-21T16:26:19 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0003
+2026-02-21T16:26:19 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0002
+2026-02-21T16:26:19 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0001
+2026-02-21T16:26:30 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T16:30:46 player: played "2004 - i/The Magnetic Fields - i (2004) - 05 - I Thought You Were My Boyfriend.flac"
+2026-02-21T19:11:28 exception: Failed to read from file: Input/output error
+2026-02-21T19:11:28 exception: Failed to decode "/Users/elaine/Music/async/02. disintegration.flac"; Failed to open "/Users/elaine/Music/async/02. disintegration.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/01. andata.flac"
+2026-02-21T19:11:37 player: played "async/02. disintegration.flac"
+2026-02-21T19:11:37 exception: Failed to decode "/Users/elaine/Music/async/02. disintegration.flac"; Failed to open "/Users/elaine/Music/async/02. disintegration.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/02. disintegration.flac"
+2026-02-21T19:11:37 exception: Failed to decode "/Users/elaine/Music/async/03. solari.flac"; Failed to open "/Users/elaine/Music/async/03. solari.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/03. solari.flac"
+2026-02-21T19:11:37 exception: Failed to decode "/Users/elaine/Music/async/04. ZURE.flac"; Failed to open "/Users/elaine/Music/async/04. ZURE.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/04. ZURE.flac"
+2026-02-21T19:11:37 exception: Failed to decode "/Users/elaine/Music/async/05. walker.flac"; Failed to open "/Users/elaine/Music/async/05. walker.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/05. walker.flac"
+2026-02-21T19:11:37 exception: Failed to decode "/Users/elaine/Music/async/06. stakra.flac"; Failed to open "/Users/elaine/Music/async/06. stakra.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/06. stakra.flac"
+2026-02-21T19:11:37 exception: Failed to decode "/Users/elaine/Music/async/07. ubi.flac"; Failed to open "/Users/elaine/Music/async/07. ubi.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/07. ubi.flac"
+2026-02-21T19:11:37 exception: Failed to decode "/Users/elaine/Music/async/08. fullmoon.flac"; Failed to open "/Users/elaine/Music/async/08. fullmoon.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/08. fullmoon.flac"
+2026-02-21T19:11:37 exception: Failed to decode "/Users/elaine/Music/async/09. async.flac"; Failed to open "/Users/elaine/Music/async/09. async.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/09. async.flac"
+2026-02-21T19:11:37 exception: Failed to decode "/Users/elaine/Music/async/10. tri.flac"; Failed to open "/Users/elaine/Music/async/10. tri.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/10. tri.flac"
+2026-02-21T19:11:37 exception: Failed to decode "/Users/elaine/Music/async/11. LIFE, LIFE.flac"; Failed to open "/Users/elaine/Music/async/11. LIFE, LIFE.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/11. LIFE, LIFE.flac"
+2026-02-21T19:11:37 exception: Failed to decode "/Users/elaine/Music/async/12. honj.flac"; Failed to open "/Users/elaine/Music/async/12. honj.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/12. honj.flac"
+2026-02-21T19:11:37 exception: Failed to decode "/Users/elaine/Music/async/13. ff.flac"; Failed to open "/Users/elaine/Music/async/13. ff.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/13. ff.flac"
+2026-02-21T19:11:37 exception: Failed to decode "/Users/elaine/Music/async/14. garden.flac"; Failed to open "/Users/elaine/Music/async/14. garden.flac": No such file or directory
+2026-02-21T19:11:37 player: played "async/14. garden.flac"
+2026-02-21T19:11:37 exception: Failed to open "/Users/elaine/Music/async/03. solari.flac": No such file or directory
+2026-02-21T19:11:37 exception: Failed to open "/Users/elaine/Music/async/03. solari.flac": No such file or directory
+2026-02-21T19:11:43 exception: Failed to access /Users/elaine/Music/Lift Your Skinny Fists Like Antennas to Heaven: No such file or directory
+2026-02-21T19:11:43 update: removing Lift Your Skinny Fists Like Antennas to Heaven/03 Static.flac
+2026-02-21T19:11:43 update: removing Lift Your Skinny Fists Like Antennas to Heaven/02 Sleep.flac
+2026-02-21T19:11:43 update: removing Lift Your Skinny Fists Like Antennas to Heaven/01 Antennas to Heaven.flac
+2026-02-21T19:11:43 update: removing Lift Your Skinny Fists Like Antennas to Heaven/04 Storm.flac
+2026-02-21T19:11:43 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T19:11:43 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T19:11:43 exception: Failed to access /Users/elaine/Music/2004 - i: No such file or directory
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 04 - I Looked All Over Town.flac
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 03 - I Don't Really Love You Anymore.flac
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 02 - I Don't Believe You.flac
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 01 - I Die.flac
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 06 - I Was Born.flac
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 05 - I Thought You Were My Boyfriend.flac
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 12 - Irma.flac
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 11 - Infinitely Late At Night.flac
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 10 - In An Operetta.flac
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 09 - I'm Tongue-Tied.flac
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 08 - If There's Such A Thing As Love.flac
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 07 - I Wish I Had An Evil Twin.flac
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 14 - It's Only Time.flac
+2026-02-21T19:11:43 update: removing 2004 - i/The Magnetic Fields - i (2004) - 13 - Is This What They Used To Call Love.flac
+2026-02-21T19:11:43 exception: Failed to access /Users/elaine/Music/Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}: No such file or directory
+2026-02-21T19:11:43 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/12 - The Morning Fog.flac
+2026-02-21T19:11:43 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/11 - Hello Earth.flac
+2026-02-21T19:11:43 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/10 - Jig of Life.flac
+2026-02-21T19:11:43 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/09 - Watching You Without Me.flac
+2026-02-21T19:11:43 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/08 - Waking the Witch.flac
+2026-02-21T19:11:43 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/07 - Under Ice.flac
+2026-02-21T19:11:43 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/06 - And Dream of Sheep.flac
+2026-02-21T19:11:43 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/05 - Cloudbusting.flac
+2026-02-21T19:11:43 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/04 - Mother Stands for Comfort.flac
+2026-02-21T19:11:43 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/03 - The Big Sky.flac
+2026-02-21T19:11:43 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/02 - Hounds of Love.flac
+2026-02-21T19:11:43 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/01 - Running Up That Hill (A Deal With God).flac
+2026-02-21T19:11:43 exception: Failed to access /Users/elaine/Music/Oingo Boingo - Dead Man's Party: No such file or directory
+2026-02-21T19:11:43 exception: Failed to access /Users/elaine/Music/async: No such file or directory
+2026-02-21T19:11:43 update: removing async/14. garden.flac
+2026-02-21T19:11:43 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T19:11:43 update: removing async/13. ff.flac
+2026-02-21T19:11:43 update: removing async/12. honj.flac
+2026-02-21T19:11:43 update: removing async/11. LIFE, LIFE.flac
+2026-02-21T19:11:43 update: removing async/10. tri.flac
+2026-02-21T19:11:43 update: removing async/09. async.flac
+2026-02-21T19:11:43 update: removing async/08. fullmoon.flac
+2026-02-21T19:11:43 update: removing async/07. ubi.flac
+2026-02-21T19:11:43 update: removing async/06. stakra.flac
+2026-02-21T19:11:43 update: removing async/05. walker.flac
+2026-02-21T19:11:43 update: removing async/04. ZURE.flac
+2026-02-21T19:11:43 update: removing async/03. solari.flac
+2026-02-21T19:11:43 update: removing async/02. disintegration.flac
+2026-02-21T19:11:43 update: removing async/01. andata.flac
+2026-02-21T19:11:43 update: removing Oingo Boingo - Dead Man's Party/09 Weird Science.flac
+2026-02-21T19:11:43 update: removing Oingo Boingo - Dead Man's Party/08 Same Man I Was Before.flac
+2026-02-21T19:11:43 update: removing Oingo Boingo - Dead Man's Party/07 Help Me.flac
+2026-02-21T19:11:43 update: removing Oingo Boingo - Dead Man's Party/06 Fool’s Paradise.flac
+2026-02-21T19:11:43 update: removing Oingo Boingo - Dead Man's Party/05 Stay.flac
+2026-02-21T19:11:43 update: removing Oingo Boingo - Dead Man's Party/04 No One Lives Forever.flac
+2026-02-21T19:11:43 update: removing Oingo Boingo - Dead Man's Party/03 Heard Somebody Cry.flac
+2026-02-21T19:11:43 update: removing Oingo Boingo - Dead Man's Party/02 Dead Man’s Party.flac
+2026-02-21T19:11:43 update: removing Oingo Boingo - Dead Man's Party/01 Just Another Day.flac
+2026-02-21T19:11:43 exception: Failed to access /Users/elaine/Music/1974.Kimono_My_House: No such file or directory
+2026-02-21T19:11:43 exception: Failed to access /Users/elaine/Music/Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}: No such file or directory
+2026-02-21T19:11:43 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/12 - The Wuthering Heights.flac
+2026-02-21T19:11:43 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/11 - Aoneko no Torso.flac
+2026-02-21T19:11:43 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/10 - High Heels (Main Theme).flac
+2026-02-21T19:11:43 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/09 - A Tribute To N.J.P..flac
+2026-02-21T19:11:43 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/08 - The Sheltering Sky.flac
+2026-02-21T19:11:43 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/07 - M.A.Y. In The Backyard.flac
+2026-02-21T19:11:43 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/06 - Merry Christmas Mr. Lawrence.flac
+2026-02-21T19:11:43 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/05 - 1919.flac
+2026-02-21T19:11:43 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/04 - The Last Emperor.flac
+2026-02-21T19:11:43 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/03 - Bibo no Aozora.flac
+2026-02-21T19:11:43 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/02 - Rain.flac
+2026-02-21T19:11:43 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/01 - A Day A Gorilla Gives A Banana.flac
+2026-02-21T19:11:43 update: removing 1974.Kimono_My_House/13.Amateur_Hour_(live).flac
+2026-02-21T19:11:43 update: removing 1974.Kimono_My_House/12.Lost_and_Found.flac
+2026-02-21T19:11:43 update: removing 1974.Kimono_My_House/11.Barbecutie.flac
+2026-02-21T19:11:43 update: removing 1974.Kimono_My_House/10.Equator.flac
+2026-02-21T19:11:43 update: removing 1974.Kimono_My_House/09.In_My_Family.flac
+2026-02-21T19:11:43 update: removing 1974.Kimono_My_House/08.Complaints.flac
+2026-02-21T19:11:43 update: removing 1974.Kimono_My_House/07.Talent_Is_an_Asset.flac
+2026-02-21T19:11:43 update: removing 1974.Kimono_My_House/06.Hasta_Manana_Monsieur.flac
+2026-02-21T19:11:43 update: removing 1974.Kimono_My_House/05.Thank_God_It's_Not_Christmas.flac
+2026-02-21T19:11:43 update: removing 1974.Kimono_My_House/04.Here_in_Heaven.flac
+2026-02-21T19:11:43 update: removing 1974.Kimono_My_House/03.Falling_in_Love_With_Myself_Again.flac
+2026-02-21T19:11:43 update: removing 1974.Kimono_My_House/02.Amateur_Hour.flac
+2026-02-21T19:11:43 update: removing 1974.Kimono_My_House/01.This_Town_Ain't_Big_Enough_for_Both_of_Us.flac
+2026-02-21T19:11:43 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T19:11:43 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T19:11:51 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T19:12:12 update: added Lift Your Skinny Fists Like Antennas to Heaven/01 Antennas to Heaven.flac
+2026-02-21T19:12:12 update: added Lift Your Skinny Fists Like Antennas to Heaven/02 Sleep.flac
+2026-02-21T19:12:12 update: added Lift Your Skinny Fists Like Antennas to Heaven/03 Static.flac
+2026-02-21T19:12:12 update: added Lift Your Skinny Fists Like Antennas to Heaven/04 Storm.flac
+2026-02-21T19:12:12 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T19:12:13 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 01 - I Die.flac
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 02 - I Don't Believe You.flac
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 03 - I Don't Really Love You Anymore.flac
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 04 - I Looked All Over Town.flac
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 05 - I Thought You Were My Boyfriend.flac
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 06 - I Was Born.flac
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 07 - I Wish I Had An Evil Twin.flac
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 08 - If There's Such A Thing As Love.flac
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 09 - I'm Tongue-Tied.flac
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 10 - In An Operetta.flac
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 11 - Infinitely Late At Night.flac
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 12 - Irma.flac
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 13 - Is This What They Used To Call Love.flac
+2026-02-21T19:12:13 update: added 2004 - i/The Magnetic Fields - i (2004) - 14 - It's Only Time.flac
+2026-02-21T19:12:13 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/01 - Running Up That Hill (A Deal With God).flac
+2026-02-21T19:12:13 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/02 - Hounds of Love.flac
+2026-02-21T19:12:13 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/03 - The Big Sky.flac
+2026-02-21T19:12:13 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/04 - Mother Stands for Comfort.flac
+2026-02-21T19:12:13 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/05 - Cloudbusting.flac
+2026-02-21T19:12:13 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/06 - And Dream of Sheep.flac
+2026-02-21T19:12:13 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/07 - Under Ice.flac
+2026-02-21T19:12:13 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/08 - Waking the Witch.flac
+2026-02-21T19:12:13 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/09 - Watching You Without Me.flac
+2026-02-21T19:12:13 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/10 - Jig of Life.flac
+2026-02-21T19:12:13 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/11 - Hello Earth.flac
+2026-02-21T19:12:13 update: added Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/12 - The Morning Fog.flac
+2026-02-21T19:12:13 update: added Oingo Boingo - Dead Man's Party/01 Just Another Day.flac
+2026-02-21T19:12:13 update: added Oingo Boingo - Dead Man's Party/02 Dead Man’s Party.flac
+2026-02-21T19:12:13 update: added Oingo Boingo - Dead Man's Party/03 Heard Somebody Cry.flac
+2026-02-21T19:12:13 update: added Oingo Boingo - Dead Man's Party/04 No One Lives Forever.flac
+2026-02-21T19:12:13 update: added Oingo Boingo - Dead Man's Party/05 Stay.flac
+2026-02-21T19:12:14 update: added Oingo Boingo - Dead Man's Party/06 Fool’s Paradise.flac
+2026-02-21T19:12:14 update: added Oingo Boingo - Dead Man's Party/07 Help Me.flac
+2026-02-21T19:12:14 update: added Oingo Boingo - Dead Man's Party/08 Same Man I Was Before.flac
+2026-02-21T19:12:14 update: added Oingo Boingo - Dead Man's Party/09 Weird Science.flac
+2026-02-21T19:12:14 update: added async/01. andata.flac
+2026-02-21T19:12:14 update: added async/02. disintegration.flac
+2026-02-21T19:12:14 update: added async/03. solari.flac
+2026-02-21T19:12:14 update: added async/04. ZURE.flac
+2026-02-21T19:12:14 update: added async/05. walker.flac
+2026-02-21T19:12:14 update: added async/06. stakra.flac
+2026-02-21T19:12:14 update: added async/07. ubi.flac
+2026-02-21T19:12:14 update: added async/08. fullmoon.flac
+2026-02-21T19:12:14 update: added async/09. async.flac
+2026-02-21T19:12:14 update: added async/10. tri.flac
+2026-02-21T19:12:14 update: added async/11. LIFE, LIFE.flac
+2026-02-21T19:12:14 update: added async/12. honj.flac
+2026-02-21T19:12:14 update: added async/13. ff.flac
+2026-02-21T19:12:14 update: added async/14. garden.flac
+2026-02-21T19:12:14 exception: Failed to access /Users/elaine/Music/The Sparks - Kimono My House (1994, 1974): No such file or directory
+2026-02-21T19:12:14 update: added 1974.Kimono_My_House/01.This_Town_Ain't_Big_Enough_for_Both_of_Us.flac
+2026-02-21T19:12:14 update: added 1974.Kimono_My_House/02.Amateur_Hour.flac
+2026-02-21T19:12:14 update: added 1974.Kimono_My_House/03.Falling_in_Love_With_Myself_Again.flac
+2026-02-21T19:12:14 update: added 1974.Kimono_My_House/04.Here_in_Heaven.flac
+2026-02-21T19:12:14 update: added 1974.Kimono_My_House/05.Thank_God_It's_Not_Christmas.flac
+2026-02-21T19:12:14 update: added 1974.Kimono_My_House/06.Hasta_Manana_Monsieur.flac
+2026-02-21T19:12:14 update: added 1974.Kimono_My_House/07.Talent_Is_an_Asset.flac
+2026-02-21T19:12:14 update: added 1974.Kimono_My_House/08.Complaints.flac
+2026-02-21T19:12:14 update: added 1974.Kimono_My_House/09.In_My_Family.flac
+2026-02-21T19:12:14 update: added 1974.Kimono_My_House/10.Equator.flac
+2026-02-21T19:12:14 update: added 1974.Kimono_My_House/11.Barbecutie.flac
+2026-02-21T19:12:14 update: added 1974.Kimono_My_House/12.Lost_and_Found.flac
+2026-02-21T19:12:14 update: added 1974.Kimono_My_House/13.Amateur_Hour_(live).flac
+2026-02-21T19:12:14 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/01 - A Day A Gorilla Gives A Banana.flac
+2026-02-21T19:12:14 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/02 - Rain.flac
+2026-02-21T19:12:14 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/03 - Bibo no Aozora.flac
+2026-02-21T19:12:14 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/04 - The Last Emperor.flac
+2026-02-21T19:12:14 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/05 - 1919.flac
+2026-02-21T19:12:14 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/06 - Merry Christmas Mr. Lawrence.flac
+2026-02-21T19:12:14 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/07 - M.A.Y. In The Backyard.flac
+2026-02-21T19:12:14 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/08 - The Sheltering Sky.flac
+2026-02-21T19:12:14 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/09 - A Tribute To N.J.P..flac
+2026-02-21T19:12:14 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/10 - High Heels (Main Theme).flac
+2026-02-21T19:12:15 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/11 - Aoneko no Torso.flac
+2026-02-21T19:12:15 update: added Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/12 - The Wuthering Heights.flac
+2026-02-21T19:12:15 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0012
+2026-02-21T19:12:15 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0011
+2026-02-21T19:12:15 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0010
+2026-02-21T19:12:15 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0009
+2026-02-21T19:12:15 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0008
+2026-02-21T19:12:15 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0007
+2026-02-21T19:12:15 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0006
+2026-02-21T19:12:15 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0005
+2026-02-21T19:12:15 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0004
+2026-02-21T19:12:15 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0003
+2026-02-21T19:12:15 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0002
+2026-02-21T19:12:15 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/1996.cue/track0001
+2026-02-21T19:12:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0012
+2026-02-21T19:12:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0011
+2026-02-21T19:12:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0010
+2026-02-21T19:12:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0009
+2026-02-21T19:12:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0008
+2026-02-21T19:12:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0007
+2026-02-21T19:12:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0006
+2026-02-21T19:12:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0005
+2026-02-21T19:12:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0004
+2026-02-21T19:12:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0003
+2026-02-21T19:12:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0002
+2026-02-21T19:12:15 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/Hounds of Love.cue/track0001
+2026-02-21T19:12:15 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T19:12:15 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T19:12:21 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-21T19:12:22 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T19:12:22 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T19:12:26 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-21T19:12:49 player: played "Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/04 - The Last Emperor.flac"
+2026-02-21T19:16:14 player: played "Oingo Boingo - Dead Man's Party/08 Same Man I Was Before.flac"
+2026-02-21T19:21:39 player: played "Oingo Boingo - Dead Man's Party/01 Just Another Day.flac"
+2026-02-21T19:28:00 player: played "Oingo Boingo - Dead Man's Party/02 Dead Man’s Party.flac"
+2026-02-21T19:32:41 player: played "Oingo Boingo - Dead Man's Party/03 Heard Somebody Cry.flac"
+2026-02-21T19:36:55 player: played "Oingo Boingo - Dead Man's Party/04 No One Lives Forever.flac"
+2026-02-21T19:40:32 player: played "Oingo Boingo - Dead Man's Party/05 Stay.flac"
+2026-02-21T19:45:07 player: played "Oingo Boingo - Dead Man's Party/06 Fool’s Paradise.flac"
+2026-02-21T19:48:53 player: played "Oingo Boingo - Dead Man's Party/07 Help Me.flac"
+2026-02-21T19:52:17 player: played "Oingo Boingo - Dead Man's Party/08 Same Man I Was Before.flac"
+2026-02-21T19:58:25 player: played "Oingo Boingo - Dead Man's Party/09 Weird Science.flac"
+2026-02-21T20:01:59 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T10:40:22 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T10:40:22 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T10:40:22 update: added Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/06 - Hasta Manana, Monsieur.mp3
+2026-02-22T10:40:22 update: added Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/04 - Here In Heaven.mp3
+2026-02-22T10:40:22 update: added Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/09 - In My Family.mp3
+2026-02-22T10:40:22 update: added Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/13 - Amateur Hour (Live At Fairfield Halls 09-11-75).mp3
+2026-02-22T10:40:22 update: added Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/08 - Complaints.mp3
+2026-02-22T10:40:22 update: added Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/07 - Talent Is An Asset.mp3
+2026-02-22T10:40:22 update: added Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/01 - This Town Ain't Big Enough For Both Of Us.mp3
+2026-02-22T10:40:22 update: added Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/11 - Barbecutie (Bonus track).mp3
+2026-02-22T10:40:22 update: added Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/02 - Amateur Hour.mp3
+2026-02-22T10:40:22 update: added Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/12 - Lost And Found (Bonus Track).mp3
+2026-02-22T10:40:22 update: added Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/05 - Thank God It's Not Christmas.mp3
+2026-02-22T10:40:22 update: added Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/03 - Falling In Love With Myself Again.mp3
+2026-02-22T10:40:22 update: added Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/10 - Equator.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/01 - Ryuichi Sakamoto - Opus.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/09 - Ryuichi Sakamoto - Chanson.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/10 - Ryuichi Sakamoto - Distant Echo.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/08 - Ryuichi Sakamoto - Bachata.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/07 - Ryuichi Sakamoto - Do Bacteria Sleep_.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/11 - Ryuichi Sakamoto - Prelude.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/06 - Ryuichi Sakamoto - Choral No. 2.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/15 - Ryuichi Sakamoto - Energy Flow.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/03 - Ryuichi Sakamoto - Intermezzo.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/05 - Ryuichi Sakamoto - Choral No. 1.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/12 - Ryuichi Sakamoto - Sonata.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/13 - Ryuichi Sakamoto - Uetax.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/14 - Ryuichi Sakamoto - Aqua.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/04 - Ryuichi Sakamoto - Lorenz and Watson.mp3
+2026-02-22T10:40:22 update: added BTTB (1999) [20th Anniversary Edition]/02 - Ryuichi Sakamoto - Sonatine.mp3
+2026-02-22T10:40:22 update: added 2017 - async/1.02. disintegration.mp3
+2026-02-22T10:40:22 update: added 2017 - async/1.01. andata.mp3
+2026-02-22T10:40:22 update: added 2017 - async/1.04. ZURE.mp3
+2026-02-22T10:40:22 update: added 2017 - async/1.03. solari.mp3
+2026-02-22T10:40:22 update: added Godspeed You Black Emperor! - F♯ A♯ ∞ (1998) [V0]/01 - The Dead Flag Blues.mp3
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 12 - Irma.flac
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 11 - Infinitely Late At Night.flac
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 10 - In An Operetta.flac
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 09 - I'm Tongue-Tied.flac
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 08 - If There's Such A Thing As Love.flac
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 07 - I Wish I Had An Evil Twin.flac
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 06 - I Was Born.flac
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 05 - I Thought You Were My Boyfriend.flac
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 04 - I Looked All Over Town.flac
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 03 - I Don't Really Love You Anymore.flac
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 02 - I Don't Believe You.flac
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 01 - I Die.flac
+2026-02-22T10:40:22 update: removing 1974.Kimono_My_House/13.Amateur_Hour_(live).flac
+2026-02-22T10:40:22 update: removing 1974.Kimono_My_House/12.Lost_and_Found.flac
+2026-02-22T10:40:22 update: removing 1974.Kimono_My_House/11.Barbecutie.flac
+2026-02-22T10:40:22 update: removing 1974.Kimono_My_House/10.Equator.flac
+2026-02-22T10:40:22 update: removing 1974.Kimono_My_House/09.In_My_Family.flac
+2026-02-22T10:40:22 update: removing 1974.Kimono_My_House/08.Complaints.flac
+2026-02-22T10:40:22 update: removing 1974.Kimono_My_House/07.Talent_Is_an_Asset.flac
+2026-02-22T10:40:22 update: removing 1974.Kimono_My_House/06.Hasta_Manana_Monsieur.flac
+2026-02-22T10:40:22 update: removing 1974.Kimono_My_House/05.Thank_God_It's_Not_Christmas.flac
+2026-02-22T10:40:22 update: removing 1974.Kimono_My_House/04.Here_in_Heaven.flac
+2026-02-22T10:40:22 update: removing 1974.Kimono_My_House/03.Falling_in_Love_With_Myself_Again.flac
+2026-02-22T10:40:22 update: removing 1974.Kimono_My_House/02.Amateur_Hour.flac
+2026-02-22T10:40:22 update: removing 1974.Kimono_My_House/01.This_Town_Ain't_Big_Enough_for_Both_of_Us.flac
+2026-02-22T10:40:22 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/12 - The Wuthering Heights.flac
+2026-02-22T10:40:22 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/11 - Aoneko no Torso.flac
+2026-02-22T10:40:22 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/10 - High Heels (Main Theme).flac
+2026-02-22T10:40:22 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/09 - A Tribute To N.J.P..flac
+2026-02-22T10:40:22 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/08 - The Sheltering Sky.flac
+2026-02-22T10:40:22 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/07 - M.A.Y. In The Backyard.flac
+2026-02-22T10:40:22 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/06 - Merry Christmas Mr. Lawrence.flac
+2026-02-22T10:40:22 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/05 - 1919.flac
+2026-02-22T10:40:22 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/04 - The Last Emperor.flac
+2026-02-22T10:40:22 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/03 - Bibo no Aozora.flac
+2026-02-22T10:40:22 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/02 - Rain.flac
+2026-02-22T10:40:22 update: removing Ryuichi Sakamoto - 1996 (1996) [FLAC] {KAB America_Milan, 35759-2}/01 - A Day A Gorilla Gives A Banana.flac
+2026-02-22T10:40:22 update: removing Oingo Boingo - Dead Man's Party/09 Weird Science.flac
+2026-02-22T10:40:22 update: removing Oingo Boingo - Dead Man's Party/08 Same Man I Was Before.flac
+2026-02-22T10:40:22 update: removing Oingo Boingo - Dead Man's Party/07 Help Me.flac
+2026-02-22T10:40:22 update: removing Oingo Boingo - Dead Man's Party/06 Fool’s Paradise.flac
+2026-02-22T10:40:22 update: removing Oingo Boingo - Dead Man's Party/05 Stay.flac
+2026-02-22T10:40:22 update: removing Oingo Boingo - Dead Man's Party/04 No One Lives Forever.flac
+2026-02-22T10:40:22 update: removing Oingo Boingo - Dead Man's Party/03 Heard Somebody Cry.flac
+2026-02-22T10:40:22 update: removing Oingo Boingo - Dead Man's Party/02 Dead Man’s Party.flac
+2026-02-22T10:40:22 update: removing Oingo Boingo - Dead Man's Party/01 Just Another Day.flac
+2026-02-22T10:40:22 update: removing Lift Your Skinny Fists Like Antennas to Heaven/02 Sleep.flac
+2026-02-22T10:40:22 update: removing Lift Your Skinny Fists Like Antennas to Heaven/01 Antennas to Heaven.flac
+2026-02-22T10:40:22 update: removing Lift Your Skinny Fists Like Antennas to Heaven/04 Storm.flac
+2026-02-22T10:40:22 update: removing Lift Your Skinny Fists Like Antennas to Heaven/03 Static.flac
+2026-02-22T10:40:22 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/12 - The Morning Fog.flac
+2026-02-22T10:40:22 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/11 - Hello Earth.flac
+2026-02-22T10:40:22 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/10 - Jig of Life.flac
+2026-02-22T10:40:22 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/09 - Watching You Without Me.flac
+2026-02-22T10:40:22 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/08 - Waking the Witch.flac
+2026-02-22T10:40:22 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/07 - Under Ice.flac
+2026-02-22T10:40:22 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/06 - And Dream of Sheep.flac
+2026-02-22T10:40:22 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/05 - Cloudbusting.flac
+2026-02-22T10:40:22 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/04 - Mother Stands for Comfort.flac
+2026-02-22T10:40:22 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/03 - The Big Sky.flac
+2026-02-22T10:40:22 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/02 - Hounds of Love.flac
+2026-02-22T10:40:22 update: removing Kate Bush - Hounds of Love (1985) [FLAC] {Toshiba-EMI Japanese Black Triangle CP32-5086}/01 - Running Up That Hill (A Deal With God).flac
+2026-02-22T10:40:22 update: removing async/14. garden.flac
+2026-02-22T10:40:22 update: removing async/13. ff.flac
+2026-02-22T10:40:22 update: removing async/12. honj.flac
+2026-02-22T10:40:22 update: removing async/11. LIFE, LIFE.flac
+2026-02-22T10:40:22 update: removing async/10. tri.flac
+2026-02-22T10:40:22 update: removing async/09. async.flac
+2026-02-22T10:40:22 update: removing async/08. fullmoon.flac
+2026-02-22T10:40:22 update: removing async/07. ubi.flac
+2026-02-22T10:40:22 update: removing async/06. stakra.flac
+2026-02-22T10:40:22 update: removing async/05. walker.flac
+2026-02-22T10:40:22 update: removing async/04. ZURE.flac
+2026-02-22T10:40:22 update: removing async/03. solari.flac
+2026-02-22T10:40:22 update: removing async/02. disintegration.flac
+2026-02-22T10:40:22 update: removing async/01. andata.flac
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 14 - It's Only Time.flac
+2026-02-22T10:40:22 update: removing 2004 - i/The Magnetic Fields - i (2004) - 13 - Is This What They Used To Call Love.flac
+2026-02-22T10:40:22 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T10:40:22 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T10:40:26 exception: No such song
+2026-02-22T10:40:26 exception: No such song
+2026-02-22T10:40:28 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T10:40:36 player: played "async/01. andata.flac"
+2026-02-22T10:40:36 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T10:40:36 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T10:40:36 player: problems opening audio device while playing "Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/01 - This Town Ain't Big Enough For Both Of Us.mp3"
+2026-02-22T10:40:44 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T10:40:44 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T10:40:45 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T10:40:45 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T10:40:45 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T10:40:45 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T10:40:48 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T10:40:48 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T10:40:48 update: added BTTB (1999) [20th Anniversary Edition]/16 - Ryuichi Sakamoto - Snake Eyes.mp3
+2026-02-22T10:40:48 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T10:40:48 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T10:40:56 player: played "Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/01 - This Town Ain't Big Enough For Both Of Us.mp3"
+2026-02-22T10:40:57 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-22T10:40:58 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T10:40:58 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T10:44:07 player: played "Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/01 - This Town Ain't Big Enough For Both Of Us.mp3"
+2026-02-22T10:47:45 player: played "Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/02 - Amateur Hour.mp3"
+2026-02-22T10:50:48 player: played "Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/03 - Falling In Love With Myself Again.mp3"
+2026-02-22T10:53:37 player: played "Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/04 - Here In Heaven.mp3"
+2026-02-22T10:58:44 player: played "Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/05 - Thank God It's Not Christmas.mp3"
+2026-02-22T11:02:38 player: played "Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/06 - Hasta Manana, Monsieur.mp3"
+2026-02-22T11:06:00 player: played "Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/07 - Talent Is An Asset.mp3"
+2026-02-22T11:08:50 player: played "Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/08 - Complaints.mp3"
+2026-02-22T11:12:39 player: played "Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/09 - In My Family.mp3"
+2026-02-22T11:12:56 player: played "Sparks - Kimono My House (1974) [v0] {21st Century Editions 984 341 0}/10 - Equator.mp3"
+2026-02-22T11:12:56 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T11:12:56 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T11:12:56 player: problems opening audio device while playing "BTTB (1999) [20th Anniversary Edition]/01 - Ryuichi Sakamoto - Opus.mp3"
+2026-02-22T11:12:58 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T11:12:58 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T11:12:59 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T11:12:59 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T11:12:59 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T11:12:59 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T11:12:59 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T11:12:59 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T11:13:00 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T11:13:00 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T11:13:07 update: added Godspeed You! Black Emperor - 2000 Lift Your Skinny Fists Like Antennas to Heaven [V0]/01 Storm.mp3
+2026-02-22T11:13:07 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T11:13:07 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T11:13:07 update: added Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/05 - PALE SPECTATOR TAKES PHOTOGRAPHS.mp3
+2026-02-22T11:13:07 update: added Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/06 - GREY RUBBLE - GREEN SHOOTS.mp3
+2026-02-22T11:13:07 update: added Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/02 - BABYS IN A THUNDERCLOUD.mp3
+2026-02-22T11:13:07 update: added Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/01 - SUN IS A HOLE SUN IS VAPORS.mp3
+2026-02-22T11:13:07 update: added Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/03 - RAINDROPS CAST IN LEAD.mp3
+2026-02-22T11:13:07 update: added Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/04 - BROKEN SPIRES AT DEAD KAPITAL.mp3
+2026-02-22T11:13:07 update: added BTTB (1999) [20th Anniversary Edition]/17 - Ryuichi Sakamoto - Tong Poo.mp3
+2026-02-22T11:13:07 update: added BTTB (1999) [20th Anniversary Edition]/18 - Ryuichi Sakamoto - Reversing.mp3
+2026-02-22T11:13:07 update: added 2017 - async/1.05. walker.mp3
+2026-02-22T11:13:07 update: added 2017 - async/1.09. async.mp3
+2026-02-22T11:13:07 update: added 2017 - async/1.07. ubi.mp3
+2026-02-22T11:13:07 update: added 2017 - async/1.12. honj.mp3
+2026-02-22T11:13:07 update: added 2017 - async/1.10. tri.mp3
+2026-02-22T11:13:07 update: added 2017 - async/1.11. Life, Life.mp3
+2026-02-22T11:13:07 update: added 2017 - async/1.13. ff.mp3
+2026-02-22T11:13:07 update: added 2017 - async/1.06. stakra.mp3
+2026-02-22T11:13:07 update: added 2017 - async/1.08. fullmoon.mp3
+2026-02-22T11:13:07 update: added Godspeed You Black Emperor! - F♯ A♯ ∞ (1998) [V0]/03 - Providence.mp3
+2026-02-22T11:13:07 update: added Godspeed You Black Emperor! - F♯ A♯ ∞ (1998) [V0]/02 - East Hastings.mp3
+2026-02-22T11:13:07 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T11:13:07 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T11:13:12 player: played "BTTB (1999) [20th Anniversary Edition]/01 - Ryuichi Sakamoto - Opus.mp3"
+2026-02-22T11:13:14 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-22T11:13:14 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T11:13:14 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T11:13:33 player: played "BTTB (1999) [20th Anniversary Edition]/01 - Ryuichi Sakamoto - Opus.mp3"
+2026-02-22T11:14:43 player: played "Godspeed You Black Emperor! - F♯ A♯ ∞ (1998) [V0]/02 - East Hastings.mp3"
+2026-02-22T11:19:22 player: played "2017 - async/1.01. andata.mp3"
+2026-02-22T11:21:23 player: played "2017 - async/1.02. disintegration.mp3"
+2026-02-22T11:26:56 player: played "Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/01 - SUN IS A HOLE SUN IS VAPORS.mp3"
+2026-02-22T12:21:39 update: added Godspeed You! Black Emperor - 2000 Lift Your Skinny Fists Like Antennas to Heaven [V0]/03 Sleep.mp3
+2026-02-22T12:21:39 update: added Godspeed You! Black Emperor - 2000 Lift Your Skinny Fists Like Antennas to Heaven [V0]/04 Antennas to Heaven.mp3
+2026-02-22T12:21:39 update: added Godspeed You! Black Emperor - 2000 Lift Your Skinny Fists Like Antennas to Heaven [V0]/02 Static.mp3
+2026-02-22T12:21:39 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T12:21:39 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T12:21:39 update: added 2017 - async/1.14. garden.mp3
+2026-02-22T12:21:39 update: added Hounds Of Love/11 Hello Earth.mp3
+2026-02-22T12:21:39 update: added Hounds Of Love/04 Mother Stands For Comfort.mp3
+2026-02-22T12:21:39 update: added Hounds Of Love/07 Under Ice.mp3
+2026-02-22T12:21:39 update: added Hounds Of Love/03 The Big Sky.mp3
+2026-02-22T12:21:39 update: added Hounds Of Love/12 The Morning Fog.mp3
+2026-02-22T12:21:39 update: added Hounds Of Love/05 Cloudbusting.mp3
+2026-02-22T12:21:39 update: added Hounds Of Love/06 And Dream Of Sheep.mp3
+2026-02-22T12:21:39 update: added Hounds Of Love/09 Watching You Without Me.mp3
+2026-02-22T12:21:39 update: added Hounds Of Love/01 Running Up That Hill (A Deal With God).mp3
+2026-02-22T12:21:39 update: added Hounds Of Love/08 Waking The Witch.mp3
+2026-02-22T12:21:39 update: added Hounds Of Love/02 Hounds Of Love.mp3
+2026-02-22T12:21:39 update: added Hounds Of Love/10 Jig Of Life.mp3
+2026-02-22T12:21:39 update: added King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or- Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damnation/King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or, Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damn - 03 Converge.mp3
+2026-02-22T12:21:39 update: added King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or- Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damnation/King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or, Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damn - 02 Supercell.mp3
+2026-02-22T12:21:39 update: added King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or- Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damnation/King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or, Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damn - 05 Gila Monster.mp3
+2026-02-22T12:21:39 update: added King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or- Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damnation/King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or, Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damn - 06 Dragon.mp3
+2026-02-22T12:21:39 update: added King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or- Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damnation/King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or, Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damn - 07 Flamethrower.mp3
+2026-02-22T12:21:39 update: added King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or- Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damnation/King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or, Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damn - 04 Witchcraft.mp3
+2026-02-22T12:21:39 update: added King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or- Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damnation/King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or, Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damn - 01 Motor Spirit.mp3
+2026-02-22T12:21:39 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T12:21:39 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T12:21:50 player: played "Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/02 - BABYS IN A THUNDERCLOUD.mp3"
+2026-02-22T12:21:50 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T12:21:50 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T12:21:50 player: problems opening audio device while playing "Hounds Of Love/01 Running Up That Hill (A Deal With God).mp3"
+2026-02-22T12:21:52 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T12:21:52 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T12:21:53 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T12:21:53 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T12:21:53 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T12:21:53 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T12:21:58 player: played "Hounds Of Love/01 Running Up That Hill (A Deal With God).mp3"
+2026-02-22T12:22:00 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-22T12:22:02 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T12:22:02 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T12:22:08 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T12:22:13 player: played "Hounds Of Love/01 Running Up That Hill (A Deal With God).mp3"
+2026-02-22T12:22:47 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T12:23:32 player: played "King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or- Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damnation/King Gizzard & The Lizard Wizard - PetroDragonic Apocalypse; or, Dawn of Eternal Night- An Annihilation of Planet Earth and the Beginning of Merciless Damn - 01 Motor Spirit.mp3"
+2026-02-22T13:03:18 player: played "Hounds Of Love/01 Running Up That Hill (A Deal With God).mp3"
+2026-02-22T13:06:21 player: played "Hounds Of Love/02 Hounds Of Love.mp3"
+2026-02-22T13:07:44 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T13:07:44 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T13:07:44 update: added The Magnetic Fields - i/14 It's Only Time.mp3
+2026-02-22T13:07:44 update: added The Magnetic Fields - i/04 I Looked All Over Town.mp3
+2026-02-22T13:07:44 update: added The Magnetic Fields - i/09 I'm Tongue-Tied.mp3
+2026-02-22T13:07:45 update: added The Magnetic Fields - i/11 Infinitely Late At Night.mp3
+2026-02-22T13:07:45 update: added The Magnetic Fields - i/12 Irma.mp3
+2026-02-22T13:07:45 update: added The Magnetic Fields - i/10 In An Operetta.mp3
+2026-02-22T13:07:45 update: added The Magnetic Fields - i/02 I Don't Believe You.mp3
+2026-02-22T13:07:45 update: added The Magnetic Fields - i/01 I Die.mp3
+2026-02-22T13:07:45 update: added The Magnetic Fields - i/05 I Thought You Were My Boyfriend.mp3
+2026-02-22T13:07:45 update: added The Magnetic Fields - i/07 I Wish I Had An Evil Twin.mp3
+2026-02-22T13:07:45 update: added The Magnetic Fields - i/03 I Don't Really Love You Anymore.mp3
+2026-02-22T13:07:45 update: added The Magnetic Fields - i/08 If There's Such A Thing As Love.mp3
+2026-02-22T13:07:45 update: added The Magnetic Fields - i/13 Is This What They Used To Call Lo.mp3
+2026-02-22T13:07:45 update: added The Magnetic Fields - i/06 I Was Born.mp3
+2026-02-22T13:07:45 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T13:07:45 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T13:07:45 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T13:07:45 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T13:07:53 player: played "Hounds Of Love/03 The Big Sky.mp3"
+2026-02-22T13:14:34 player: played "The Magnetic Fields - i/05 I Thought You Were My Boyfriend.mp3"
+2026-02-22T13:14:57 player: played "The Magnetic Fields - i/06 I Was Born.mp3"
+2026-02-22T13:14:57 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T13:14:57 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T13:14:57 player: problems opening audio device while playing "2017 - async/1.01. andata.mp3"
+2026-02-22T13:15:11 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T13:15:11 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T13:15:11 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T13:15:11 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T13:15:11 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T13:15:11 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T13:15:22 player: played "2017 - async/1.01. andata.mp3"
+2026-02-22T13:15:23 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-22T13:15:24 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T13:15:24 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T13:20:05 player: played "2017 - async/1.01. andata.mp3"
+2026-02-22T15:56:23 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T15:56:23 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 302 - Phaedra Out-Take 2B.mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 103 - Movements of a Visionary.mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 501 - The Victoria Palace Concert- Part 2.mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 105 - Phaedra (Steven Wilson 2018 Stereo Remix).mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 101 - Phaedra.mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 201 - 2nd Day.mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 202 - Flute Organ Piece.mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 102 - Mysterious Semblance at the Strand of Nightmares.mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 303 - 2nd Side Piece 1.mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 304 - 2nd Side Piece 2.mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 401 - The Victoria Palace Concert- Part 1.mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 301 - Phaedra Out-Take 1.mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 305 - Organ Piece.mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 104 - Sequent C'.mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 106 - Sequent C' (Steven Wilson 2018 Stereo Remix).mp3
+2026-02-22T15:56:23 update: added [1974] Phaedra/Phaedra - 203 - Phaedra Out-Take Version 2A.mp3
+2026-02-22T15:56:23 update: added [1999] Mars Polaris/04 - Deep Space Cruiser.flac
+2026-02-22T15:56:23 update: added [1999] Mars Polaris/08 - Astrophobia.flac
+2026-02-22T15:56:23 update: added [1999] Mars Polaris/05 - Outland (The Colony).flac
+2026-02-22T15:56:23 update: added [1999] Mars Polaris/03 - Pilots of the Ether Belt.flac
+2026-02-22T15:56:23 update: added [1999] Mars Polaris/01 - Comet’s Figure Head.flac
+2026-02-22T15:56:23 update: added [1999] Mars Polaris/07 - Mars Mission Counter.flac
+2026-02-22T15:56:23 update: added [1999] Mars Polaris/02 - Rim of Schiaparelli.flac
+2026-02-22T15:56:23 update: added [1999] Mars Polaris/09 - Tharsis Maneuver.flac
+2026-02-22T15:56:23 update: added [1999] Mars Polaris/06 - Spiral Star Date (Level ♇).flac
+2026-02-22T15:56:23 update: added [1999] Mars Polaris/10 - Dies Martis (TransMercury).flac
+2026-02-22T15:56:35 player: played "2017 - async/1.02. disintegration.mp3"
+2026-02-22T15:56:35 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T15:56:35 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-22T15:56:35 player: problems opening audio device while playing "[1974] Phaedra/Phaedra - 101 - Phaedra.mp3"
+2026-02-22T15:56:43 player: played "[1974] Phaedra/Phaedra - 101 - Phaedra.mp3"
+2026-02-22T15:56:44 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-22T15:57:13 player: played "[1974] Phaedra/Phaedra - 101 - Phaedra.mp3"
+2026-02-22T16:07:17 player: played "[1999] Mars Polaris/01 - Comet’s Figure Head.flac"
+2026-02-22T16:15:11 player: played "[1999] Mars Polaris/02 - Rim of Schiaparelli.flac"
+2026-02-22T16:25:26 player: played "[1999] Mars Polaris/03 - Pilots of the Ether Belt.flac"
+2026-02-22T16:30:09 player: played "[1999] Mars Polaris/04 - Deep Space Cruiser.flac"
+2026-02-22T16:41:53 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T16:41:53 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T16:41:53 update: added 1978 - Die Mensch-Maschine/05 - Neonlicht.mp3
+2026-02-22T16:41:53 update: added 1978 - Die Mensch-Maschine/04 - Das Modell.mp3
+2026-02-22T16:41:53 update: added 1978 - Die Mensch-Maschine/02 - Spacelab.mp3
+2026-02-22T16:41:53 update: added 1978 - Die Mensch-Maschine/06 - Die Mensch-Maschine.mp3
+2026-02-22T16:41:53 update: added 1978 - Die Mensch-Maschine/01 - Die Roboter.mp3
+2026-02-22T16:41:53 update: added 1978 - Die Mensch-Maschine/03 - Metropolis.mp3
+2026-02-22T16:41:53 update: added 1974 - Phaedra/01 - Phaedra.mp3
+2026-02-22T16:41:53 update: added 1974 - Phaedra/04 - Sequent C'.mp3
+2026-02-22T16:41:53 update: added 1974 - Phaedra/02 - Mysterious Semblance At The Strand Of Nightmares.mp3
+2026-02-22T16:41:53 update: added 1974 - Phaedra/03 - Movements Of A Visionary.mp3
+2026-02-22T16:41:53 update: added Sparks - 1974 - Propaganda [V0]/01 - Propaganda.mp3
+2026-02-22T16:41:53 update: added Sparks - 1974 - Propaganda [V0]/02 - At Home, At Work, At Play.mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 202 - Flute Organ Piece.mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 201 - 2nd Day.mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 106 - Sequent C' (Steven Wilson 2018 Stereo Remix).mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 105 - Phaedra (Steven Wilson 2018 Stereo Remix).mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 104 - Sequent C'.mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 103 - Movements of a Visionary.mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 102 - Mysterious Semblance at the Strand of Nightmares.mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 101 - Phaedra.mp3
+2026-02-22T16:41:53 update: removing [1999] Mars Polaris/10 - Dies Martis (TransMercury).flac
+2026-02-22T16:41:53 update: removing [1999] Mars Polaris/09 - Tharsis Maneuver.flac
+2026-02-22T16:41:53 update: removing [1999] Mars Polaris/08 - Astrophobia.flac
+2026-02-22T16:41:53 update: removing [1999] Mars Polaris/07 - Mars Mission Counter.flac
+2026-02-22T16:41:53 update: removing [1999] Mars Polaris/06 - Spiral Star Date (Level ♇).flac
+2026-02-22T16:41:53 update: removing [1999] Mars Polaris/05 - Outland (The Colony).flac
+2026-02-22T16:41:53 update: removing [1999] Mars Polaris/04 - Deep Space Cruiser.flac
+2026-02-22T16:41:53 update: removing [1999] Mars Polaris/03 - Pilots of the Ether Belt.flac
+2026-02-22T16:41:53 update: removing [1999] Mars Polaris/02 - Rim of Schiaparelli.flac
+2026-02-22T16:41:53 update: removing [1999] Mars Polaris/01 - Comet’s Figure Head.flac
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 501 - The Victoria Palace Concert- Part 2.mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 401 - The Victoria Palace Concert- Part 1.mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 305 - Organ Piece.mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 304 - 2nd Side Piece 2.mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 303 - 2nd Side Piece 1.mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 302 - Phaedra Out-Take 2B.mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 301 - Phaedra Out-Take 1.mp3
+2026-02-22T16:41:53 update: removing [1974] Phaedra/Phaedra - 203 - Phaedra Out-Take Version 2A.mp3
+2026-02-22T16:41:59 player: played "[1999] Mars Polaris/05 - Outland (The Colony).flac"
+2026-02-22T16:42:00 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-22T16:48:22 player: played "1978 - Die Mensch-Maschine/01 - Die Roboter.mp3"
+2026-02-22T16:49:37 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T16:49:47 player: played "1978 - Die Mensch-Maschine/02 - Spacelab.mp3"
+2026-02-22T16:49:55 player: played "The Magnetic Fields - i/05 I Thought You Were My Boyfriend.mp3"
+2026-02-22T16:50:02 player: played "1974 - Phaedra/01 - Phaedra.mp3"
+2026-02-22T16:50:26 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T16:50:27 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-22T16:50:27 update: added 1999 - Mars Polaris/01 - Comet`s Figure Head.mp3
+2026-02-22T16:50:27 update: added 1999 - Mars Polaris/02 - Rim Of Schiaparelly.mp3
+2026-02-22T16:50:27 update: added Sparks - 1974 - Propaganda [V0]/03 - Reinforcements.mp3
+2026-02-22T16:50:27 update: added Sparks - 1974 - Propaganda [V0]/05 - Thanks But No Thanks.mp3
+2026-02-22T16:50:27 update: added Sparks - 1974 - Propaganda [V0]/12 - Alabamy Right.mp3
+2026-02-22T16:50:27 update: added Sparks - 1974 - Propaganda [V0]/10 - Who Don't Like Kids.mp3
+2026-02-22T16:50:27 update: added Sparks - 1974 - Propaganda [V0]/09 - Achoo.mp3
+2026-02-22T16:50:27 update: added Sparks - 1974 - Propaganda [V0]/07 - Never Turn Your Back On Mother Earth.mp3
+2026-02-22T16:50:27 update: added Sparks - 1974 - Propaganda [V0]/04 - B.C..mp3
+2026-02-22T16:50:27 update: added Sparks - 1974 - Propaganda [V0]/13 - Marry Me.mp3
+2026-02-22T16:50:27 update: added Sparks - 1974 - Propaganda [V0]/11 - Bon Voyage.mp3
+2026-02-22T16:50:27 update: added Sparks - 1974 - Propaganda [V0]/06 - Don't Leave Me Alone With Her.mp3
+2026-02-22T16:50:27 update: added Sparks - 1974 - Propaganda [V0]/08 - Something For The Girl With Everything.mp3
+2026-02-22T16:50:27 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T16:50:27 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T16:50:38 player: played "Hounds Of Love/01 Running Up That Hill (A Deal With God).mp3"
+2026-02-22T16:51:00 player: played "Sparks - 1974 - Propaganda [V0]/01 - Propaganda.mp3"
+2026-02-22T16:52:01 player: played "Sparks - 1974 - Propaganda [V0]/02 - At Home, At Work, At Play.mp3"
+2026-02-22T16:52:10 player: played "1974 - Phaedra/01 - Phaedra.mp3"
+2026-02-22T16:54:25 player: played "The Magnetic Fields - i/01 I Die.mp3"
+2026-02-22T16:57:22 player: played "The Magnetic Fields - i/02 I Don't Believe You.mp3"
+2026-02-22T16:57:36 player: played "BTTB (1999) [20th Anniversary Edition]/01 - Ryuichi Sakamoto - Opus.mp3"
+2026-02-22T16:58:14 player: played "1978 - Die Mensch-Maschine/01 - Die Roboter.mp3"
+2026-02-22T17:00:46 player: played "The Magnetic Fields - i/05 I Thought You Were My Boyfriend.mp3"
+2026-02-22T17:01:08 player: played "Sparks - 1974 - Propaganda [V0]/01 - Propaganda.mp3"
+2026-02-22T17:04:14 player: played "Sparks - 1974 - Propaganda [V0]/02 - At Home, At Work, At Play.mp3"
+2026-02-22T18:17:23 player: played "Sparks - 1974 - Propaganda [V0]/03 - Reinforcements.mp3"
+2026-02-22T19:02:20 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-22T19:04:20 player: played "Sparks - 1974 - Propaganda [V0]/04 - B.C..mp3"
+2026-02-22T19:08:45 player: played "The Magnetic Fields - i/05 I Thought You Were My Boyfriend.mp3"
+2026-02-22T19:13:32 player: played "The Magnetic Fields - i/01 I Die.mp3"
+2026-02-22T19:18:34 player: played "Hounds Of Love/01 Running Up That Hill (A Deal With God).mp3"
+2026-02-22T19:21:36 player: played "Hounds Of Love/02 Hounds Of Love.mp3"
+2026-02-22T20:31:55 player: played "Hounds Of Love/03 The Big Sky.mp3"
+2026-02-22T20:34:16 player: played "The Magnetic Fields - i/01 I Die.mp3"
+2026-02-22T20:37:56 player: played "The Magnetic Fields - i/02 I Don't Believe You.mp3"
+2026-02-22T20:40:29 player: played "The Magnetic Fields - i/03 I Don't Really Love You Anymore.mp3"
+2026-02-22T20:43:08 player: played "The Magnetic Fields - i/04 I Looked All Over Town.mp3"
+2026-02-22T20:49:45 player: played "The Magnetic Fields - i/05 I Thought You Were My Boyfriend.mp3"
+2026-02-22T20:51:46 player: played "The Magnetic Fields - i/06 I Was Born.mp3"
+2026-02-22T20:55:03 player: played "The Magnetic Fields - i/07 I Wish I Had An Evil Twin.mp3"
+2026-02-22T20:58:01 player: played "The Magnetic Fields - i/08 If There's Such A Thing As Love.mp3"
+2026-02-22T21:00:50 player: played "The Magnetic Fields - i/09 I'm Tongue-Tied.mp3"
+2026-02-22T21:07:07 player: played "The Magnetic Fields - i/10 In An Operetta.mp3"
+2026-02-22T21:09:52 player: played "The Magnetic Fields - i/11 Infinitely Late At Night.mp3"
+2026-02-22T21:12:16 player: played "The Magnetic Fields - i/12 Irma.mp3"
+2026-02-22T21:15:21 player: played "The Magnetic Fields - i/13 Is This What They Used To Call Lo.mp3"
+2026-02-22T21:19:47 player: played "The Magnetic Fields - i/14 It's Only Time.mp3"
+2026-02-22T21:20:29 player: played "Sparks - 1974 - Propaganda [V0]/01 - Propaganda.mp3"
+2026-02-22T21:23:35 player: played "Sparks - 1974 - Propaganda [V0]/02 - At Home, At Work, At Play.mp3"
+2026-02-22T21:27:30 player: played "Sparks - 1974 - Propaganda [V0]/03 - Reinforcements.mp3"
+2026-02-22T21:29:44 player: played "Sparks - 1974 - Propaganda [V0]/04 - B.C..mp3"
+2026-02-22T21:33:59 player: played "Sparks - 1974 - Propaganda [V0]/05 - Thanks But No Thanks.mp3"
+2026-02-23T06:27:03 player: played "Sparks - 1974 - Propaganda [V0]/06 - Don't Leave Me Alone With Her.mp3"
+2026-02-23T06:34:04 player: played "Sparks - 1974 - Propaganda [V0]/07 - Never Turn Your Back On Mother Earth.mp3"
+2026-02-23T06:36:22 player: played "Sparks - 1974 - Propaganda [V0]/08 - Something For The Girl With Everything.mp3"
+2026-02-23T06:37:12 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-23T06:37:12 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-23T06:37:12 update: added 1999 - Mars Polaris/08 - Astrophobia.mp3
+2026-02-23T06:37:12 update: added 1999 - Mars Polaris/03 - Pilots Of The Ether Belt.mp3
+2026-02-23T06:37:12 update: added 1999 - Mars Polaris/06 - Spiral Star Date.mp3
+2026-02-23T06:37:12 update: added 1999 - Mars Polaris/10 - Dies Martis.mp3
+2026-02-23T06:37:12 update: added 1999 - Mars Polaris/09 - Tharsis Maneuver.mp3
+2026-02-23T06:37:12 update: added 1999 - Mars Polaris/07 - Mars Mission Counter.mp3
+2026-02-23T06:37:12 update: added 1999 - Mars Polaris/05 - Outland.mp3
+2026-02-23T06:37:12 update: added 1999 - Mars Polaris/04 - Deep Space Cruiser.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/07 - Heard Them Stirring.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/06 - He Doesn't Know Why.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/04 - Tiger Mountain Peasant Song.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/01 - Sun It Rises.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/10 - Blue Ridge Mountains.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/09 - Meadowlarks.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/08 - Your Protector.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/03 - Ragged Wood.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/11 - Oliver James.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/05 - Quiet Houses.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/02 - White Winter Hymnal.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/05 - Innocent Son.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/01 - Sun Giant.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/03 - English House.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/04 - Mykonos.mp3
+2026-02-23T06:37:12 update: added Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/02 - Drops In The River.mp3
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0005
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0004
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0003
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0002
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0001
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0011
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0010
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0009
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0008
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0007
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0006
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0005
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0004
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0003
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0002
+2026-02-23T06:37:12 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0001
+2026-02-23T06:37:12 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-23T06:37:12 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-23T06:37:26 player: played "Sparks - 1974 - Propaganda [V0]/09 - Achoo.mp3"
+2026-02-23T06:38:42 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/01 - Sun It Rises.mp3"
+2026-02-23T06:47:19 player: played "Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/04 - Mykonos.mp3"
+2026-02-23T06:47:27 player: played "Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/05 - Innocent Son.mp3"
+2026-02-23T06:47:38 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-23T06:47:38 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0005
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0004
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0003
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0002
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0001
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0011
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0010
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0009
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0008
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0007
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0006
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0005
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0004
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0003
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0002
+2026-02-23T06:47:38 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0001
+2026-02-23T06:47:38 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-23T06:47:38 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-23T06:47:59 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-23T06:47:59 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0005
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0004
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0003
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0002
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0001
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0011
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0010
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0009
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0008
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0007
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0006
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0005
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0004
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0003
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0002
+2026-02-23T06:47:59 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0001
+2026-02-23T06:52:35 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/03 - Ragged Wood.mp3"
+2026-02-23T12:16:57 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/01 - Sun It Rises.mp3"
+2026-02-23T12:19:24 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/02 - White Winter Hymnal.mp3"
+2026-02-23T12:24:32 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/03 - Ragged Wood.mp3"
+2026-02-23T12:31:48 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/03 - Ragged Wood.mp3"
+2026-02-23T12:35:17 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/04 - Tiger Mountain Peasant Song.mp3"
+2026-02-23T12:36:42 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/05 - Quiet Houses.mp3"
+2026-02-23T12:41:22 player: played "2017 - async/1.01. andata.mp3"
+2026-02-23T12:47:08 player: played "2017 - async/1.02. disintegration.mp3"
+2026-02-23T12:54:47 player: played "2017 - async/1.03. solari.mp3"
+2026-02-23T18:02:16 player: played "2017 - async/1.04. ZURE.mp3"
+2026-02-23T18:02:44 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-23T18:04:31 player: played "Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/01 - Sun Giant.mp3"
+2026-02-23T18:08:44 player: played "Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/02 - Drops In The River.mp3"
+2026-02-23T20:21:31 player: played "Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/03 - English House.mp3"
+2026-02-23T20:30:02 player: played "Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/04 - Mykonos.mp3"
+2026-02-23T20:30:18 player: played "Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/05 - Innocent Son.mp3"
+2026-02-23T20:32:52 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/02 - White Winter Hymnal.mp3"
+2026-02-23T20:38:00 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/03 - Ragged Wood.mp3"
+2026-02-24T05:33:34 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/04 - Tiger Mountain Peasant Song.mp3"
+2026-02-24T11:00:43 player: played "Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/01 - SUN IS A HOLE SUN IS VAPORS.mp3"
+2026-02-24T12:30:23 player: played "Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/01 - SUN IS A HOLE SUN IS VAPORS.mp3"
+2026-02-24T12:46:26 player: played "Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/02 - BABYS IN A THUNDERCLOUD.mp3"
+2026-02-24T12:59:43 player: played "Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/03 - RAINDROPS CAST IN LEAD.mp3"
+2026-02-24T13:00:21 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-24T15:37:21 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-24T17:25:55 player: played "Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/04 - BROKEN SPIRES AT DEAD KAPITAL.mp3"
+2026-02-24T17:29:54 player: played "Hounds Of Love/01 Running Up That Hill (A Deal With God).mp3"
+2026-02-24T17:33:04 player: played "Hounds Of Love/02 Hounds Of Love.mp3"
+2026-02-24T17:35:38 player: played "Hounds Of Love/03 The Big Sky.mp3"
+2026-02-24T17:35:39 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-24T17:35:40 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-24T17:35:40 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-24T17:37:54 player: played "Hounds Of Love/03 The Big Sky.mp3"
+2026-02-24T17:43:46 player: played "Hounds Of Love/05 Cloudbusting.mp3"
+2026-02-24T17:46:32 player: played "Hounds Of Love/06 And Dream Of Sheep.mp3"
+2026-02-24T17:48:54 player: played "Hounds Of Love/07 Under Ice.mp3"
+2026-02-24T17:57:36 player: played "Hounds Of Love/08 Waking The Witch.mp3"
+2026-02-24T18:01:43 player: played "Hounds Of Love/09 Watching You Without Me.mp3"
+2026-02-24T18:02:05 player: played "Hounds Of Love/10 Jig Of Life.mp3"
+2026-02-24T18:07:26 player: played "Godspeed You! Black Emperor - 2024 - NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD [V0]/01 - SUN IS A HOLE SUN IS VAPORS.mp3"
+2026-02-24T18:07:31 player: played "Sparks - 1974 - Propaganda [V0]/08 - Something For The Girl With Everything.mp3"
+2026-02-24T18:10:00 player: played "Sparks - 1974 - Propaganda [V0]/07 - Never Turn Your Back On Mother Earth.mp3"
+2026-02-24T18:12:18 player: played "Sparks - 1974 - Propaganda [V0]/08 - Something For The Girl With Everything.mp3"
+2026-02-24T19:42:02 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-24T19:42:05 player: played "Sparks - 1974 - Propaganda [V0]/09 - Achoo.mp3"
+2026-02-24T19:42:05 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-24T19:43:56 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/01 - Sun It Rises.mp3"
+2026-02-24T19:43:56 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-24T19:45:20 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/02 - White Winter Hymnal.mp3"
+2026-02-24T19:45:20 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-24T19:45:38 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-24T19:45:44 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-24T19:45:44 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0005
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0004
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0003
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0002
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0001
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0011
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0010
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0009
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0008
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0007
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0006
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0005
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0004
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0003
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0002
+2026-02-24T19:45:44 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0001
+2026-02-24T19:45:52 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-24T19:47:08 exception: Failed to open "CoreAudio" (osx); The operation couldn’t be completed. (OSStatus error 560947818.)
+2026-02-24T19:47:11 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-24T19:47:11 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0005
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0004
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0003
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0002
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0001
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0011
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0010
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0009
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0008
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0007
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0006
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0005
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0004
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0003
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0002
+2026-02-24T19:47:11 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0001
+2026-02-24T19:47:16 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/02 - White Winter Hymnal.mp3"
+2026-02-24T19:47:18 config: inotify: auto_update was disabled. enable during compilation phase
+2026-02-24T19:47:18 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/02 - White Winter Hymnal.mp3"
+2026-02-24T19:52:27 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/03 - Ragged Wood.mp3"
+2026-02-24T19:54:53 player: played "Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/04 - Tiger Mountain Peasant Song.mp3"
+2026-02-24T19:59:30 player: played "Hounds Of Love/03 The Big Sky.mp3"
+2026-02-24T20:00:03 player: played "Hounds Of Love/04 Mother Stands For Comfort.mp3"
+2026-02-24T20:02:40 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-24T20:02:50 player: played "The Magnetic Fields - i/05 I Thought You Were My Boyfriend.mp3"
+2026-02-24T20:02:53 player: played "Hounds Of Love/03 The Big Sky.mp3"
+2026-02-24T20:06:26 update: added Twin Fantasy/09 Famous Prophets (Stars).mp3
+2026-02-24T20:06:26 update: added Twin Fantasy/06 Bodys.mp3
+2026-02-24T20:06:26 update: added Twin Fantasy/10 Twin Fantasy (Those Boys).mp3
+2026-02-24T20:06:26 update: added Twin Fantasy/01 My Boy (Twin Fantasy).mp3
+2026-02-24T20:06:26 update: added Twin Fantasy/02 Beach Life-In-Death.mp3
+2026-02-24T20:06:26 update: added Twin Fantasy/08 High to Death.mp3
+2026-02-24T20:06:26 update: added Twin Fantasy/05 Nervous Young Inhumans.mp3
+2026-02-24T20:06:26 update: added Twin Fantasy/04 Sober to Death.mp3
+2026-02-24T20:06:26 update: added Twin Fantasy/03 Stop Smoking (We Love You).mp3
+2026-02-24T20:06:26 update: added Twin Fantasy/07 Cute Thing.mp3
+2026-02-24T20:06:26 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-24T20:06:26 ffmpeg/luodat: Format luodat detected only with low score of 1, misdetection possible!
+2026-02-24T20:06:26 update: added 2011 - Twin Fantasy/03 - Stop Smoking.mp3
+2026-02-24T20:06:26 update: added 2011 - Twin Fantasy/05 - Nervous Young Inhumans.mp3
+2026-02-24T20:06:26 update: added 2011 - Twin Fantasy/10 - Twin Fantasy (Those Boys).mp3
+2026-02-24T20:06:26 update: added 2011 - Twin Fantasy/04 - Sober To Death.mp3
+2026-02-24T20:06:26 update: added 2011 - Twin Fantasy/08 - High To Death.mp3
+2026-02-24T20:06:26 update: added 2011 - Twin Fantasy/09 - Famous Prophets (Minds).mp3
+2026-02-24T20:06:26 update: added 2011 - Twin Fantasy/07 - Cute Thing.mp3
+2026-02-24T20:06:26 update: added 2011 - Twin Fantasy/01 - My Boy (Twin Fantasy).mp3
+2026-02-24T20:06:26 update: added 2011 - Twin Fantasy/06 - Bodys.mp3
+2026-02-24T20:06:26 update: added 2011 - Twin Fantasy/02 - Beach Life-In-Death.mp3
+2026-02-24T20:06:26 update: added 2016 - Teens Of Denial/12 - Joe Goes To School.mp3
+2026-02-24T20:06:26 update: added 2016 - Teens Of Denial/02 - Vincent.mp3
+2026-02-24T20:06:26 update: added 2016 - Teens Of Denial/07 - 1937 State Park.mp3
+2026-02-24T20:06:26 update: added 2016 - Teens Of Denial/08 - Unforgiving Girl (She’s Not An).mp3
+2026-02-24T20:06:26 update: added 2016 - Teens Of Denial/10 - The Ballad Of The Costa Concordia.mp3
+2026-02-24T20:06:26 update: added 2016 - Teens Of Denial/09 - Cosmic Hero.mp3
+2026-02-24T20:06:26 update: added 2016 - Teens Of Denial/03 - Destroyed By Hippie Powers.mp3
+2026-02-24T20:06:26 update: added 2016 - Teens Of Denial/05 - Not What I Needed.mp3
+2026-02-24T20:06:26 update: added 2016 - Teens Of Denial/06 - Drunk Drivers-Killer Whales.mp3
+2026-02-24T20:06:26 update: added 2016 - Teens Of Denial/01 - Fill In The Blank.mp3
+2026-02-24T20:06:26 update: added 2016 - Teens Of Denial/11 - Connect The Dots (The Saga Of Frank Sinatra).mp3
+2026-02-24T20:06:26 update: added 2016 - Teens Of Denial/04 - (Joe Gets Kicked Out Of School For Using) Drugs With Friends (But Says This Isn’t A Problem).mp3
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0005
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0004
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0003
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0002
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Sun Giant {SPCD 781} [V0]/Sun Giant.cue/track0001
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0011
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0010
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0009
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0008
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0007
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0006
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0005
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0004
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0003
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0002
+2026-02-24T20:06:26 update: removing Fleet Foxes - 2008 - Fleet Foxes {SPCD 777} [V0]/Fleet Foxes.cue/track0001
+2026-02-24T20:06:26 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-24T20:06:26 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-24T20:06:52 exception: Failed to open /Users/elaine/.mpd/playlists: No such file or directory
+2026-02-24T20:06:57 player: played "Hounds Of Love/05 Cloudbusting.mp3"
+2026-02-24T20:09:51 player: played "Twin Fantasy/01 My Boy (Twin Fantasy).mp3"
+2026-02-24T20:23:09 player: played "Twin Fantasy/02 Beach Life-In-Death.mp3"
