@@ -1,0 +1,3 @@
+#main-window #TabsToolbar { height: 37px !important; overflow: hidden; transition: height .3s .3s !important;}#main-window[titlepreface*="[Sidebery] "] #TabsToolbar { height: -30 !important;}#main-window[titlepreface*="[Sidebery] "] #tabbrowser-tabs { z-index: -30 !important;}#main-window[titlepreface*="[Sidebery] "] #nav-bar { margin-top: -37px; margin-right: 160px; box-shadow: none !important;}[uidensity="compact"]:root .titlebar-button { height: 32px !important;}[uidensity="compact"]:root #nav-bar { margin-top: -32px;}#titlebar-spacer { background-color: var(--chrome-secondary-background-color);}#titlebar-buttonbox-container { background-color: var(--chrome-secondary-background-color);}.titlebar-color { background-color: var(--toolbar-bgcolor);}
+
+

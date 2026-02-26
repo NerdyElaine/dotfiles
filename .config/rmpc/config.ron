@@ -7,7 +7,7 @@
     scrolloff: 2,
     max_fps: 60,
     wrap_navigation: true,
-    theme: None,
+    theme: "everforest",
     cache_dir: None, 
     on_song_change: None,
     status_update_interval_ms: 1000,
