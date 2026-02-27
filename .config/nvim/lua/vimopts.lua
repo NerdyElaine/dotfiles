@@ -67,6 +67,9 @@ vim.keymap.set("i", "<C-l>", "<C-x><C-n>", { noremap = true, silent = true })
 -- no highlights
 vim.keymap.set("n", "<Esc><Esc>", ":nohlsearch<CR>", { desc = "Clear search highlight on double Esc", silent = true })
 
+-- bring back ctrl + u with alt + u
+vim.keymap.set("n", "ù", "<C-u>", { noremap = true, silent = true })
+
 -- spell check
 vim.keymap.set("n", "<leader>ll", ":setlocal spell spelllang=en_us<CR>")
 
