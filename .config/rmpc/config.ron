@@ -96,7 +96,7 @@
             "G":           Bottom,
             "h":           Left,
             "<CR>":        Confirm,
-            "i":           FocusInput,
+            "u":           FocusInput,
             "J":           MoveDown,
             "j":           Down,
             "<C-d>":       DownHalf,
