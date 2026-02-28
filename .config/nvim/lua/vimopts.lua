@@ -68,7 +68,7 @@ vim.keymap.set("i", "<C-l>", "<C-x><C-n>", { noremap = true, silent = true })
 vim.keymap.set("n", "<Esc><Esc>", ":nohlsearch<CR>", { desc = "Clear search highlight on double Esc", silent = true })
 
 -- use jj in order to enter normal mode
-vim.keymap.set("i", "jj", "<Esc>", { noremap = false })
+vim.keymap.set("i", "jk", "<Esc>", { noremap = false })
 -- bring back ctrl + u with alt + u
 vim.keymap.set("n", "ù", "<C-u>", { noremap = true, silent = true })
 
