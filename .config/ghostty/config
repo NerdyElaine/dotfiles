@@ -12,6 +12,7 @@ adjust-cell-width = 2
 adjust-cell-height = 0
 theme = everforest-dark-hard.conf
 cursor-style = bar
+macos-option-as-alt = true
 
 # Empty values reset the configuration to the default value
 

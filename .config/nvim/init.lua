@@ -281,10 +281,10 @@ vim.keymap.set("o", "i", "", { silent = true }) -- Unmap 'i' for operator mode
 vim.keymap.set("n", "k", "nzz", { silent = true })
 vim.keymap.set("n", "K", "Nzz", { silent = true })
 vim.keymap.set("n", "u", "i", { silent = true })
-vim.keymap.set("n", "n", "j", { silent = true }) -- Remap 'n' to 'j'
-vim.keymap.set("n", "e", "k", { silent = true })
-vim.keymap.set("n", "i", "l", { silent = true })
 vim.keymap.set("n", "m", "h", { silent = true })
+vim.keymap.set("n", "n", "gj", { silent = true }) -- Remap 'n' to 'j'
+vim.keymap.set("n", "e", "gk", { silent = true })
+vim.keymap.set("n", "i", "l", { silent = true })
 vim.keymap.set("n", "l", "u", { silent = true })
 
 -- Visual mode mappings
