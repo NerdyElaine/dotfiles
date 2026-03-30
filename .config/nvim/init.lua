@@ -37,6 +37,8 @@ vim.pack.add({
 	{ src = 'https://github.com/nvim-tree/nvim-web-devicons' },
 	{ src = "https://github.com/nvim-telescope/telescope-ui-select.nvim" },
 	{ src = 'https://github.com/saghen/blink.cmp' },
+	{ src = "https://github.com/nvim-treesitter/nvim-treesitter-textobjects" },
+	{ src = 'https://github.com/xiyaowong/transparent.nvim'},
 	{ src = 'https://github.com/neovim/nvim-lspconfig' },
 	{ src = 'https://github.com/MeanderingProgrammer/render-markdown.nvim' },
 	{ src = 'https://github.com/nvim-treesitter/nvim-treesitter', version = "main"},
@@ -77,10 +79,14 @@ local function pack_clean()
 end
 
 vim.cmd("colorscheme everforest")
-vim.api.nvim_set_hl (0, "Normal", {bg = "none"})
-vim.api.nvim_set_hl (0, "NormalFloat", {bg = "none"})
 
 require "flash".setup()
+
+require("nvim-treesitter").setup({
+  autotag = {
+	enabled = true,
+  }
+})
 
 require "render-markdown".setup({
 	completion = {
@@ -101,7 +107,7 @@ require('nvim-ts-autotag').setup({
   opts = {
     enable_close = true,
     enable_rename = true,
-    enable_close_on_slash = false
+    enable_close_on_slash = true
 	},
   per_filetype = {
     ["html"] = {
@@ -249,11 +255,11 @@ require "mason".setup()
 
 vim.lsp.enable({
 	"lua_ls", "css_ls", "ts_ls", "rust_analyzer", "clangd", "haskell-language-server", "tailwind_css", "pyright",
-	"ltex_plus", "bashls"
+	"ltex_plus", "bashls", "svelte"
 })
 
 vim.api.nvim_create_autocmd('FileType', {
-	pattern = { 'markdown', 'lua', 'rust', 'latex', 'typescript', 'javascript', 'c', 'cpp', 'python', 'haskell' },
+	pattern = { 'svelte', 'markdown', 'lua', 'rust', 'latex', 'typescript', 'javascript', 'c', 'cpp', 'python', 'haskell' },
 	callback = function() vim.treesitter.start() end,
 })
 
