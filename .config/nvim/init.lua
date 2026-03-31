@@ -29,24 +29,25 @@ vim.pack.add({
 	{ src = 'https://github.com/nvim-lualine/lualine.nvim' },
 	{ src = 'https://github.com/stevearc/oil.nvim' },
 	{ src = 'https://github.com/aserowy/tmux.nvim' },
+	{ src = 'https://github.com/christoomey/vim-tmux-navigator' },
 	{ src = 'https://github.com/lervag/vimtex' },
 	{ src = 'https://github.com/nvim-mini/mini.nvim' },
-	{ src = 'https://github.com/windwp/nvim-ts-autotag'},
-	{ src = 'https://github.com/nvim-telescope/telescope.nvim', version = "0.1.8"},
+	{ src = 'https://github.com/windwp/nvim-ts-autotag' },
+	{ src = 'https://github.com/nvim-telescope/telescope.nvim',              version = "0.1.8" },
 	{ src = 'https://github.com/nvim-lua/plenary.nvim' },
 	{ src = 'https://github.com/nvim-tree/nvim-web-devicons' },
 	{ src = "https://github.com/nvim-telescope/telescope-ui-select.nvim" },
 	{ src = 'https://github.com/saghen/blink.cmp' },
 	{ src = "https://github.com/nvim-treesitter/nvim-treesitter-textobjects" },
-	{ src = 'https://github.com/xiyaowong/transparent.nvim'},
+	{ src = 'https://github.com/xiyaowong/transparent.nvim' },
 	{ src = 'https://github.com/neovim/nvim-lspconfig' },
 	{ src = 'https://github.com/MeanderingProgrammer/render-markdown.nvim' },
-	{ src = 'https://github.com/nvim-treesitter/nvim-treesitter', version = "main"},
+	{ src = 'https://github.com/nvim-treesitter/nvim-treesitter',            version = "main" },
 	{ src = 'https://github.com/mason-org/mason.nvim' },
 	{ src = 'https://github.com/folke/flash.nvim' },
 	{ src = 'https://github.com/norcalli/nvim-colorizer.lua' },
-	{ src = 'https://github.com/goolord/alpha-nvim'},
-	{ src = 'https://github.com/kdheepak/lazygit.nvim'}
+	{ src = 'https://github.com/goolord/alpha-nvim' },
+	{ src = 'https://github.com/kdheepak/lazygit.nvim' }
 })
 
 require "everforest".setup({
@@ -83,9 +84,9 @@ vim.cmd("colorscheme everforest")
 require "flash".setup()
 
 require("nvim-treesitter").setup({
-  autotag = {
-	enabled = true,
-  }
+	autotag = {
+		enabled = true,
+	}
 })
 
 require "render-markdown".setup({
@@ -104,16 +105,16 @@ require "colorizer".setup({
 require("tmux").setup()
 
 require('nvim-ts-autotag').setup({
-  opts = {
-    enable_close = true,
-    enable_rename = true,
-    enable_close_on_slash = true
+	opts = {
+		enable_close = true,
+		enable_rename = true,
+		enable_close_on_slash = true
 	},
-  per_filetype = {
-    ["html"] = {
-      enable_close = false
-    }
-  }
+	per_filetype = {
+		["html"] = {
+			enable_close = false
+		}
+	}
 })
 
 require("nvim-web-devicons").setup()
@@ -122,16 +123,23 @@ require("mini.pairs").setup()
 
 require("mini.surround").setup()
 
-local latex_patterns = {'latex.json'}
+local latex_patterns = { 'latex.json' }
 local lang_patterns = {
-	tex = latex_patterns, latex = latex_patterns, plaintex = latex_patterns, c = {'c.json'}, cpp = {'cpp.json'},
-	haskell = {'haskell.json'}, javascript = {'javascript.json'}, typescript = {'typescript.json'},
-	rust = {'rust.json'}, svelte = {'svelte.json'},
+	tex = latex_patterns,
+	latex = latex_patterns,
+	plaintex = latex_patterns,
+	c = { 'c.json' },
+	cpp = { 'cpp.json' },
+	haskell = { 'haskell.json' },
+	javascript = { 'javascript.json' },
+	typescript = { 'typescript.json' },
+	rust = { 'rust.json' },
+	svelte = { 'svelte.json' },
 }
 local gen_loader = require('mini.snippets').gen_loader
 require('mini.snippets').setup({
 	snippets = {
-			gen_loader.from_lang({lang_patterns = lang_patterns})
+		gen_loader.from_lang({ lang_patterns = lang_patterns })
 	},
 	mappings = {
 		expand = '<S-Tab>',
@@ -141,32 +149,32 @@ require('mini.snippets').setup({
 local actions = require("telescope.actions")
 
 require("telescope").setup({
-		mappings = {
-			i = {
-				["<esc>"] = actions.close,
+	mappings = {
+		i = {
+			["<Esc>"] = require("telescope.actions").close,
+		}
+	},
+	preview = {
+		treesitter = true
+	},
+	color_devicons = true,
+	pickers = {
+		find_files = {
+			find_command = {
+				'rg',
+				'--files',
+				'--hidden',
+				'-g',
+				'!.git'
 			}
 		},
-		preview = {
-			treesitter = true
+		live_grep = {
+			file_ignore_patterns = { 'node_modules', '.git', '.venv' },
+			additional_args = function()
+				return { "--hidden" }
+			end
 		},
-		color_devicons = true,
-		pickers = {
-			find_files = {
-				find_command = {
-					'rg',
-					'--files',
-					'--hidden',
-					'-g',
-					'!.git'
-				}
-			},
-			live_grep = {
-				file_ignore_patterns = { 'node_modules', '.git', '.venv' },
-				additional_args = function()
-					return { "--hidden" }
-				end
-			},
-		}
+	}
 })
 local builtin = require('telescope.builtin')
 
@@ -202,16 +210,6 @@ require("oil").setup({
 	float = {
 		padding = 4,
 	},
-})
-
-require("tmux").setup({
-	navigation = {
-		enable_default_keybindings = true,
-	},
-	vim.cmd [[nnoremap <C-m> <cmd>lua require('tmux').move_left()<cr>]],
-	vim.cmd [[nnoremap <C-n> <cmd>lua require('tmux').move_bottom()<cr>]],
-	vim.cmd [[nnoremap <C-e> <cmd>lua require('tmux').move_top()<cr>]],
-	vim.cmd [[nnoremap <C-i> <cmd>lua require('tmux').move_right()<cr>]]
 })
 
 
@@ -311,7 +309,7 @@ vim.keymap.set('n', '<leader>q', ':quit<CR>')
 vim.keymap.set('i', '<C-i>', '<ESC>', { silent = true })
 vim.keymap.set('n', '<ESC><ESC>', ':nohlsearch<CR>', { silent = true })
 vim.keymap.set('n', '<leader>lf', vim.lsp.buf.format)
-vim.keymap.set('n', 'f','e', { silent = true })
+vim.keymap.set('n', 'f', 'e', { silent = true })
 vim.keymap.set('n', 'cu', 'ci', { silent = true })
 vim.keymap.set('n', 'vu', 'vi', { silent = true })
 vim.keymap.set('n', 'du', 'di', { silent = true })
@@ -322,15 +320,19 @@ vim.keymap.set('n', '<C-l>', '<C-u>zz')
 vim.keymap.set('n', 'G', 'Gzz')
 vim.keymap.set({ 'n', 'v', 'x' }, 'zk', '<cmd>lua require("flash").jump()<CR>', { desc = "Self explanatory" })
 vim.keymap.set("n", "<leader>fc", pack_clean)
-
+vim.keymap.set("n", "<C-m>", "<cmd>TmuxNavigateLeft<CR>")
+vim.keymap.set("n", "<C-n>", "<cmd>TmuxNavigateDown<CR>")
+vim.keymap.set("n", "<C-e>", "<cmd>TmuxNavigateUp<CR>")
+vim.keymap.set("n", "<C-i>", "<cmd>TmuxNavigateRight<CR>")
+vim.keymap.set("n", "<C-\\>", "<cmd>TmuxNavigatePrevious<CR>")
 --File navigation keymaps
-vim.keymap.set('n', '<leader>f', builtin.find_files, { desc = 'Telescope find files' })
+vim.keymap.set('n', '<leader>e', builtin.find_files, { desc = 'Telescope find files' })
 vim.keymap.set('n', '<leader>g', builtin.live_grep, { desc = 'Telescope live grep' })
 vim.keymap.set('n', '<leader>sd', builtin.diagnostics, { desc = 'Telescope diagnostics' })
 vim.keymap.set('n', '<leader>H', builtin.help_tags, { desc = 'Telescope help tags' })
-vim.keymap.set('n', '<leader>E', ':Oil<CR>', { silent = true })
-vim.keymap.set('n', '<leader>e', ':lua require("oil").toggle_float()<CR>', { silent = true })
-vim.keymap.set('n', '<leader>lg', '<CMD>LazyGit<CR>', {silent = true})
+vim.keymap.set('n', '<leader>F', ':Oil<CR>', { silent = true })
+vim.keymap.set('n', '<leader>f', ':lua require("oil").toggle_float()<CR>', { silent = true })
+vim.keymap.set('n', '<leader>lg', '<CMD>LazyGit<CR>', { silent = true })
 
 vim.api.nvim_create_autocmd("BufWinEnter", {
 	pattern = "*.jsx,*.tsx",
@@ -339,4 +341,3 @@ vim.api.nvim_create_autocmd("BufWinEnter", {
 		vim.cmd([[set filetype=typescriptreact]])
 	end
 })
-

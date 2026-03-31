@@ -1,3 +1,4 @@
+let mapleader = " "
 set number
 set relativenumber
 filetype plugin indent on
@@ -13,6 +14,11 @@ call plug#begin()
 Plug 'tpope/vim-sensible'
 Plug 'tpope/vim-vinegar'
 Plug 'sainnhe/everforest'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install()  }  }
+Plug 'junegunn/fzf.vim'
+Plug 'christoomey/vim-tmux-navigator'
+Plug 'jiangmiao/auto-pairs'
+Plug 'vim-airline/vim-airline'
 call plug#end()
 
 if has('termguicolors')
@@ -35,10 +41,27 @@ noremap n j
 noremap e k
 noremap i l
 
+nnoremap <silent> <C-m> :<C-U>TmuxNavigateLeft<cr>
+nnoremap <silent> <C-n> :<C-U>TmuxNavigateDown<cr>
+nnoremap <silent> <C-e> :<C-U>TmuxNavigateUp<cr>
+nnoremap <silent> <C-i> :<C-U>TmuxNavigateRight<cr>
+
 noremap k n
 noremap K N
 noremap u i
 noremap l u
+noremap f e
+nnoremap cu ci
+nnoremap vu vi
+nnoremap du di
+
+" Keybindings
+nnoremap <leader>o :so<CR>
+nnoremap <leader>e :Files<CR>
+nnoremap <leader>fo :History<CR>
+nnoremap <leader>fb :Buffers<CR>
+nnoremap <leader>w :w<CR>
+nnoremap <leader>q :q<CR>
 
 " Fixes the cursor issue 
 if &term =~ 'ghostty'
