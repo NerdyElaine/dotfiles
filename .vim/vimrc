@@ -1,0 +1,53 @@
+set number
+set relativenumber
+filetype plugin indent on
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+set tabstop=4
+set smartindent 
+syntax on
+
+call plug#begin()
+Plug 'tpope/vim-sensible'
+Plug 'tpope/vim-vinegar'
+Plug 'sainnhe/everforest'
+call plug#end()
+
+if has('termguicolors')
+    set termguicolors
+endif
+
+set background=dark
+
+let g:everforest_better_performance = 1
+
+let g:everforest_background = 'soft'
+
+let g:everforest_transparent_background = 1 
+
+colorscheme everforest
+
+" Colemak bindings
+noremap m h
+noremap n j
+noremap e k
+noremap i l
+
+noremap k n
+noremap K N
+noremap u i
+noremap l u
+
+" Fixes the cursor issue 
+if &term =~ 'ghostty'
+  let &t_SI = "\<Esc>[2 q" " Bar in insert mode
+  let &t_SR = "\<Esc>[3 q" " Underline in replace mode
+  let &t_EI = "\<Esc>[2 q" " Block in normal mode
+endif
+
+if &term =~ 'tmux-256color'
+  let &t_SI = "\<Esc>[2 q" " Bar in insert mode
+  let &t_SR = "\<Esc>[3 q" " Underline in replace mode
+  let &t_EI = "\<Esc>[2 q" " Block in normal mode
+endif

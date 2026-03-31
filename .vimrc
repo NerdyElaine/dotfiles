@@ -1,4 +1,1 @@
-set number
-set relativenumber
-
-
+source ~/dotfiles/.vim/vimrc
