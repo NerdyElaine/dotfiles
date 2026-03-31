@@ -3,6 +3,7 @@ set relativenumber
 filetype plugin indent on
 set expandtab
 set shiftwidth=4
+set signcolumn=yes
 set softtabstop=4
 set tabstop=4
 set smartindent 
