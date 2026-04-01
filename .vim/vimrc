@@ -7,7 +7,10 @@ set shiftwidth=4
 set signcolumn=yes
 set softtabstop=4
 set tabstop=4
+set nowrap
 set smartindent 
+set noswapfile
+set scrolloff=10 
 syntax on
 
 call plug#begin()
@@ -40,6 +43,7 @@ noremap m h
 noremap n j
 noremap e k
 noremap i l
+nnoremap <C-s> <C-d>
 
 nnoremap <silent> <C-m> :<C-U>TmuxNavigateLeft<cr>
 nnoremap <silent> <C-n> :<C-U>TmuxNavigateDown<cr>
