@@ -6,32 +6,32 @@ function fish_user_key_bindings
 	fish_default_key_bindings - M insert
 	fish_vi_key_bindings
 
-	bind --preset -M default m 'fish_vi_run_count backward-char'
+  bind --preset -M default m 'fish_vi_run_count backward-char'
   bind --preset -M default n 'fish_vi_run_count down-or-search' 
-	bind --preset -M default e 'fish_vi_run_count up-or-search'
+  bind --preset -M default e 'fish_vi_run_count up-or-search'
   bind --preset -M default i 'fish_vi_run_count forward-char'
 
-	bind --preset -m insert u repaint-mode
+  bind --preset -m insert u repaint-mode
   bind --preset -m insert U beginning-of-line repaint-mode
 
-	bind --preset -M default f 'fish_vi_run_count forward-word-end'
+  bind --preset -M default f 'fish_vi_run_count forward-word-end'
   bind --preset -M default F 'fish_vi_run_count forward-bigword-end'
 
 
-	bind --preset -M operator m 'fish_vi_run_count backward-char'
+  bind --preset -M operator m 'fish_vi_run_count backward-char'
   bind --preset -M operator n 'fish_vi_run_count forward-char'
   bind --preset -M operator e 'fish_vi_run_count up-or-search'
   bind --preset -M operator i 'fish_vi_run_count down-or-search'
 
-	bind --preset -M operator f 'fish_vi_run_count forward-word-end'
+  bind --preset -M operator f 'fish_vi_run_count forward-word-end'
   bind --preset -M operator F 'fish_vi_run_count forward-bigword-end'
 
 end 
 
 set fish_cursor_default block
 set fish_cursor_insert block
-set fish_cursor_replace_one underscore
-set fish_cursor_replace underscore
+set fish_cursor_replace_one block
+set fish_cursor_replace block
 
 set fish_cursor_external line
 
@@ -42,15 +42,16 @@ set fish_greeting ""
 set -gx ATUIN_NOBIND "true"
 atuin init fish | source
 
-bind \cr _atuin_search
-bind -M insert \cr _atuin_search
+bind \ch _atuin_search
+bind -M insert \ch _atuin_search
 
 set -x PATH $HOME/.cargo/bin $PATH
 set -x PATH $HOME/.local/share/bob/nvim-bin $PATH
 set -x PATH $HOME/.local/bin $PATH
 
 # General aliases
-alias v='nvim'                  # Neovim shortcut
+alias v='vim'                  # Neovim shortcut
+alias vi='nvim'
 alias inv='nvim $(fzf -m --preview="bat --color=always {}")' # Find files with fzf with preview with bat and opens with Neovim
 alias o='open'                  # macOS open shortcut
 alias owd='open ./'             # Open current dir in Finder (macOS)
@@ -110,9 +111,13 @@ alias ff='hyfetch -b fastfetch'
 fzf --fish | source
 alias fzf='fzf --preview="bat --color=always {}"'
 
+function starship_transient_prompt_func
+  starship module character
+end
 
 starship init fish | source
 
+enable_transience
 
 hyfetch
 

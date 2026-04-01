@@ -11,7 +11,7 @@ set nowrap
 set smartindent 
 set noswapfile
 set scrolloff=10 
-syntax on
+syntax enable
 
 call plug#begin()
 Plug 'tpope/vim-sensible'
@@ -25,16 +25,16 @@ Plug 'vim-airline/vim-airline'
 call plug#end()
 
 if has('termguicolors')
-    set termguicolors
+          set termguicolors
 endif
 
 set background=dark
 
+let g:everforest_background='soft'
+
 let g:everforest_better_performance = 1
 
-let g:everforest_background = 'soft'
-
-let g:everforest_transparent_background = 1 
+let g:everforest_transparent_background = 1
 
 colorscheme everforest
 
@@ -43,7 +43,8 @@ noremap m h
 noremap n j
 noremap e k
 noremap i l
-nnoremap <C-s> <C-d>
+nnoremap <C-d> <C-d>zz
+nnoremap <C-l> <C-u>zz
 
 nnoremap <silent> <C-m> :<C-U>TmuxNavigateLeft<cr>
 nnoremap <silent> <C-n> :<C-U>TmuxNavigateDown<cr>
@@ -61,11 +62,12 @@ nnoremap du di
 
 " Keybindings
 nnoremap <leader>o :so<CR>
-nnoremap <leader>e :Files<CR>
+nnoremap <leader>h :Files<CR>
 nnoremap <leader>fo :History<CR>
 nnoremap <leader>fb :Buffers<CR>
 nnoremap <leader>w :w<CR>
 nnoremap <leader>q :q<CR>
+nnoremap ; :
 
 " Fixes the cursor issue 
 if &term =~ 'ghostty'

@@ -311,7 +311,7 @@ vim.keymap.set('n', 'vi', 'vi', { silent = true })
 vim.keymap.set('n', 'di', 'di', { silent = true })
 
 --Navigation keymaps
-vim.keymap.set('n', '<C-s>', '<C-d>zz')
+vim.keymap.set('n', '<C-d>', '<C-d>zz')
 vim.keymap.set('n', '<C-l>', '<C-u>zz')
 vim.keymap.set('n', 'G', 'Gzz')
 vim.keymap.set({ 'n', 'v', 'x' }, 'zk', '<cmd>lua require("flash").jump()<CR>', { desc = "Self explanatory" })
