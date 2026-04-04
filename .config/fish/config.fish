@@ -57,8 +57,6 @@ alias o='open'                  # macOS open shortcut
 alias owd='open ./'             # Open current dir in Finder (macOS)
 alias fm='. yazi'             # yazi shortcut (switches dir when leaving yazi)
 alias fhistory='history | rg'   # Searches history
-alias vc='v *.c'                # Opens all C files in cwd
-alias vch='v *.h *.c'           # Opens all C and header files in cwd
 alias dis3d='/Users/elaine/.cargo/bin/display3d' #Blahaj
 
 # Kanata
@@ -109,7 +107,7 @@ alias ff='hyfetch -b fastfetch'
 
 #FZF setup 
 fzf --fish | source
-alias fzf='fzf --preview="bat --color=always {}"'
+alias fzf='fzf --preview="bat -f {}"'
 
 function starship_transient_prompt_func
   starship module character
