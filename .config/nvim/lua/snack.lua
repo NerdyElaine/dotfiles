@@ -3,7 +3,7 @@ require("snacks").setup({
     animate = { enabled = false },
     image = {
         enabled = true,
-        inline = true,
+        inline = false,
         img_dirs = { "~/Pictures/" },
         doc = {
             enabled = true,

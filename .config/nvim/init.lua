@@ -157,31 +157,33 @@ require('org-bullets').setup()
 local actions = require("telescope.actions")
 
 require("telescope").setup({
-    mappings = {
-        i = {
-            ["<Esc>"] = require("telescope.actions").close,
+    defaults = {
+        mappings = {
+            i = {
+                ["<esc>"] = actions.close
+            },
+        },
+        preview = {
+            treesitter = true
+        },
+        color_devicons = true,
+        pickers = {
+            find_files = {
+                find_command = {
+                    'rg',
+                    '--files',
+                    '--hidden',
+                    '-g',
+                    '!.git'
+                }
+            },
+            live_grep = {
+                file_ignore_patterns = { 'node_modules', '.git', '.venv' },
+                additional_args = function()
+                    return { "--hidden" }
+                end
+            },
         }
-    },
-    preview = {
-        treesitter = true
-    },
-    color_devicons = true,
-    pickers = {
-        find_files = {
-            find_command = {
-                'rg',
-                '--files',
-                '--hidden',
-                '-g',
-                '!.git'
-            }
-        },
-        live_grep = {
-            file_ignore_patterns = { 'node_modules', '.git', '.venv' },
-            additional_args = function()
-                return { "--hidden" }
-            end
-        },
     }
 })
 local builtin = require('telescope.builtin')
@@ -322,14 +324,13 @@ vim.keymap.set({ "n", "v", "x" }, ":", ";", { desc = "Self explanatory" })
 vim.keymap.set('n', '<leader>w', ':write<CR>')
 vim.keymap.set('n', '<leader>q', ':quit<CR>')
 vim.keymap.set('i', '<C-i>', '<ESC>', { silent = true })
-vim.keymap.set('n', '<ESC><ESC>', ':nohlsearch<CR>', { silent = true })
 vim.keymap.set('n', '<leader>lf', vim.lsp.buf.format)
 vim.keymap.set('n', 'f', 'e', { silent = true })
 vim.keymap.set('n', 'ci', 'ci', { silent = true })
 vim.keymap.set('n', 'vi', 'vi', { silent = true })
 vim.keymap.set('n', 'di', 'di', { silent = true })
 vim.keymap.set("n", "<leader>si", function() Snacks.image.hover() end, { desc = "Image Hover" })
-vim.keymap.set("n","<leader>gg", function() Snacks.lazygit() end)
+vim.keymap.set("n", "<leader>lg", function() Snacks.lazygit() end)
 
 --Navigation keymaps
 vim.keymap.set('n', '<C-d>', '<C-d>zz')
@@ -352,10 +353,10 @@ vim.keymap.set('n', '<leader>f', ':lua require("oil").toggle_float()<CR>', { sil
 
 --Zettelkasten scripts
 local ext = require("telescope").extensions.orgmode
-    vim.keymap.set("n", "<leader>bh", ext.search_headings, { desc = "Org headlines" })
-    vim.keymap.set("n", "<leader>bt", ext.search_tags, { desc = "Org tags" })
-    vim.keymap.set("n", "<leader>r", ext.refile_heading, { desc = "Org refile" })
-    vim.keymap.set("n", "<leader>li", ext.insert_link, { desc = "Org insert link" })
+vim.keymap.set("n", "<leader>bh", ext.search_headings, { desc = "Org headlines" })
+vim.keymap.set("n", "<leader>bt", ext.search_tags, { desc = "Org tags" })
+vim.keymap.set("n", "<leader>r", ext.refile_heading, { desc = "Org refile" })
+vim.keymap.set("n", "<leader>li", ext.insert_link, { desc = "Org insert link" })
 
 vim.api.nvim_create_autocmd("BufWinEnter", {
     pattern = "*.jsx,*.tsx",
@@ -388,15 +389,15 @@ vim.api.nvim_create_autocmd("FileType", {
     end
 })
 
--- To disable snacks images for tex files because I just use  
+-- To disable snacks images for tex files because I just use
 vim.schedule(function()
-  local image_doc = require("snacks.image.doc")
-  local original_attach = image_doc.attach
-  image_doc.attach = function(buf)
-    local ignore_ft = { "tex", "latex", "plaintex" }
-    if vim.tbl_contains(ignore_ft, vim.bo[buf].filetype) then
-      return 
+    local image_doc = require("snacks.image.doc")
+    local original_attach = image_doc.attach
+    image_doc.attach = function(buf)
+        local ignore_ft = { "tex", "latex", "plaintex" }
+        if vim.tbl_contains(ignore_ft, vim.bo[buf].filetype) then
+            return
+        end
+        original_attach(buf)
     end
-    original_attach(buf)
-  end
 end)
