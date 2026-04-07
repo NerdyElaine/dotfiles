@@ -10,7 +10,7 @@ set tabstop=4
 set nowrap
 set smartindent 
 set noswapfile
-set scrolloff=10 
+set scrolloff=8 
 syntax enable
 
 call plug#begin()
@@ -62,7 +62,7 @@ nnoremap du di
 
 " Keybindings
 nnoremap <leader>o :so<CR>
-nnoremap <leader>h :Files<CR>
+nnoremap <leader>e :Files<CR>
 nnoremap <leader>fo :History<CR>
 nnoremap <leader>fb :Buffers<CR>
 nnoremap <leader>w :w<CR>
