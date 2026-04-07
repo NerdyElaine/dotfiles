@@ -21,6 +21,8 @@ vim.o.hlsearch = false
 vim.o.incsearch = true
 vim.o.scrolloff = 10
 vim.o.updatetime = 50
+vim.opt.conceallevel = 2
+vim.opt.concealcursor = 'nc'
 vim.opt.clipboard:append("unnamedplus")
 vim.o.undodir = os.getenv("HOME") .. "/.vim/undodir"
 vim.o.undofile = true
@@ -148,42 +150,31 @@ require("orgmode").setup({
     org_highlight_latex_and_related = 'native',
 })
 
-require("org-roam").setup({
-    directory = '~/orgfiles/',
-})
-
-require('org-bullets').setup()
+require("org-mode")
 
 local actions = require("telescope.actions")
 
 require("telescope").setup({
-    defaults = {
-        mappings = {
-            i = {
-                ["<esc>"] = actions.close
-            },
+    preview = {
+        treesitter = true
+    },
+    color_devicons = true,
+    pickers = {
+        find_files = {
+            find_command = {
+                'rg',
+                '--files',
+                '--hidden',
+                '-g',
+                '!.git'
+            }
         },
-        preview = {
-            treesitter = true
+        live_grep = {
+            file_ignore_patterns = { 'node_modules', '.git', '.venv' },
+            additional_args = function()
+                return { "--hidden" }
+            end
         },
-        color_devicons = true,
-        pickers = {
-            find_files = {
-                find_command = {
-                    'rg',
-                    '--files',
-                    '--hidden',
-                    '-g',
-                    '!.git'
-                }
-            },
-            live_grep = {
-                file_ignore_patterns = { 'node_modules', '.git', '.venv' },
-                additional_args = function()
-                    return { "--hidden" }
-                end
-            },
-        }
     }
 })
 local builtin = require('telescope.builtin')
@@ -332,17 +323,6 @@ vim.keymap.set('n', 'di', 'di', { silent = true })
 vim.keymap.set("n", "<leader>si", function() Snacks.image.hover() end, { desc = "Image Hover" })
 vim.keymap.set("n", "<leader>lg", function() Snacks.lazygit() end)
 
---Navigation keymaps
-vim.keymap.set('n', '<C-d>', '<C-d>zz')
-vim.keymap.set('n', '<C-u>', '<C-u>zz')
-vim.keymap.set('n', 'G', 'Gzz')
-vim.keymap.set({ 'n', 'v', 'x' }, 'zk', '<cmd>lua require("flash").jump()<CR>', { desc = "Self explanatory" })
-vim.keymap.set("n", "<leader>rc", pack_clean)
-vim.keymap.set("n", "<C-m>", "<cmd>TmuxNavigateLeft<CR>")
-vim.keymap.set("n", "<C-n>", "<cmd>TmuxNavigateDown<CR>")
-vim.keymap.set("n", "<C-e>", "<cmd>TmuxNavigateUp<CR>")
-vim.keymap.set("n", "<C-i>", "<cmd>TmuxNavigateRight<CR>")
-vim.keymap.set("n", "<C-\\>", "<cmd>TmuxNavigatePrevious<CR>")
 --File navigation keymaps
 vim.keymap.set('n', '<leader>e', builtin.find_files, { desc = 'Telescope find files' })
 vim.keymap.set('n', '<leader>g', builtin.live_grep, { desc = 'Telescope live grep' })
@@ -357,6 +337,18 @@ vim.keymap.set("n", "<leader>bh", ext.search_headings, { desc = "Org headlines" 
 vim.keymap.set("n", "<leader>bt", ext.search_tags, { desc = "Org tags" })
 vim.keymap.set("n", "<leader>r", ext.refile_heading, { desc = "Org refile" })
 vim.keymap.set("n", "<leader>li", ext.insert_link, { desc = "Org insert link" })
+
+--Navigation keymaps
+vim.keymap.set('n', '<C-d>', '<C-d>zz')
+vim.keymap.set('n', '<C-u>', '<C-u>zz')
+vim.keymap.set('n', 'G', 'Gzz')
+vim.keymap.set({ 'n', 'v', 'x' }, 'zk', '<cmd>lua require("flash").jump()<CR>', { desc = "Self explanatory" })
+vim.keymap.set("n", "<leader>rc", pack_clean)
+vim.g.tmux_navigator_no_mappings = 1
+vim.keymap.set('n', '<C-m>', ':TmuxNavigateLeft<cr>', {silent = true})
+vim.keymap.set('n', '<C-n>', ':TmuxNavigateDown<cr>', {silent = true})
+vim.keymap.set('n', '<C-e>', ':TmuxNavigateUp<cr>', {silent = true})
+vim.keymap.set('n', '<C-i>', ':TmuxNavigateRight<cr>', {silent = true})
 
 vim.api.nvim_create_autocmd("BufWinEnter", {
     pattern = "*.jsx,*.tsx",

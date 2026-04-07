@@ -3,17 +3,36 @@ require("snacks").setup({
     animate = { enabled = false },
     image = {
         enabled = true,
-        inline = false,
+        inline = true,
+        float = true,
         img_dirs = { "~/Pictures/" },
         doc = {
             enabled = true,
+            inline = true,
+            float = true,
+            max_width = 50,
+            max_length = 50,
+            scale = 0.8,
             conceal = function(lang, type)
                 return type == "math"
             end,
         },
         math = {
             enabled = true,
-            font_size = "Large",
+            packages = { "amsmath", "amssymb", "amsfonts", "amscd", "mathtools" },
+            font_size = "tiny",
         },
+        convert = {
+            magick = {
+                math = {
+                    "-density", "300",
+                    "{src}[{page}]",
+                    "-trim",
+                    "+repage",
+                    "-scale", "100%", -- change to 150, 200, 250, etc.
+                },
+            },
+        },
+
     },
 })

@@ -26,6 +26,9 @@ function fish_user_key_bindings
   bind --preset -M operator f 'fish_vi_run_count forward-word-end'
   bind --preset -M operator F 'fish_vi_run_count forward-bigword-end'
 
+  bind --erase \ci
+  bind --erase \cm
+
 end 
 
 set fish_cursor_default block
@@ -112,6 +115,7 @@ alias fzf='fzf --preview="bat -f {}"'
 function starship_transient_prompt_func
   starship module character
 end
+
 
 starship init fish | source
 
