@@ -1,4 +1,18 @@
 require("snacks").setup({
+    picker = {
+        enabled = true,
+        focus = "input",
+        win = {
+            input = {
+                keys = {
+                    ["<Esc>"] = { "close", mode = { "n", "i" } },
+                }
+            }
+        },
+        layout = {
+            preset = "telescope",
+        }
+    },
     scroll = { enabled = false },
     animate = { enabled = false },
     image = {

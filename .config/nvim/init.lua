@@ -3,7 +3,7 @@ vim.g.maplocalleader = " "
 vim.o.guicursor = ""
 
 -- Options
-vim.o.winborder = "bold"
+vim.o.winborder = "single"
 vim.o.number = true
 vim.o.relativenumber = true
 vim.o.wrap = false
@@ -43,10 +43,6 @@ vim.pack.add({
     { src = 'https://github.com/folke/snacks.nvim' },
     { src = 'https://github.com/nvim-mini/mini.nvim' },
     { src = 'https://github.com/windwp/nvim-ts-autotag' },
-    { src = 'https://github.com/nvim-telescope/telescope.nvim',              version = "0.1.8" },
-    { src = 'https://github.com/nvim-lua/plenary.nvim' },
-    { src = 'https://github.com/nvim-tree/nvim-web-devicons' },
-    { src = "https://github.com/nvim-telescope/telescope-ui-select.nvim" },
     { src = 'https://github.com/saghen/blink.cmp' },
     { src = "https://github.com/nvim-treesitter/nvim-treesitter-textobjects" },
     { src = 'https://github.com/xiyaowong/transparent.nvim' },
@@ -136,7 +132,7 @@ require('nvim-ts-autotag').setup({
     }
 })
 
-require("nvim-web-devicons").setup()
+require("mini.icons").setup()
 
 require("mini.pairs").setup()
 
@@ -151,37 +147,6 @@ require("orgmode").setup({
 })
 
 require("org-mode")
-
-local actions = require("telescope.actions")
-
-require("telescope").setup({
-    preview = {
-        treesitter = true
-    },
-    color_devicons = true,
-    pickers = {
-        find_files = {
-            find_command = {
-                'rg',
-                '--files',
-                '--hidden',
-                '-g',
-                '!.git'
-            }
-        },
-        live_grep = {
-            file_ignore_patterns = { 'node_modules', '.git', '.venv' },
-            additional_args = function()
-                return { "--hidden" }
-            end
-        },
-    }
-})
-local builtin = require('telescope.builtin')
-
-require("telescope").load_extension("ui-select")
-require("telescope").load_extension("orgmode")
-
 
 vim.g.vimtex_view_method = "sioyek"
 vim.g.vimtex_callback_progpath = "~/.local/share/bob/nvim-bin/nvim"
@@ -259,7 +224,7 @@ vim.api.nvim_create_autocmd("InsertEnter", {
 require "mason".setup()
 
 vim.lsp.enable({
-    "lua_ls", "css_ls", "ts_ls", "rust_analyzer", "clangd", "haskell-language-server", "tailwind_css", "pyright",
+    "lua_ls", "css_ls", "ts_ls", "rust_analyzer", "clangd", "haskell-language-server", "tailwind_css", "basedpyright",
     "ltex_plus", "bashls", "svelte", "org"
 })
 
@@ -274,81 +239,92 @@ require("autocmd")
 require("statusline")
 
 -- Keymaps
--- Colemak keymap
+local keymap = vim.keymap.set
 
+-- Colemak keymap
 -- Unmap 'n' and 'N' in normal mode to disable their default search navigation
-vim.keymap.set("n", "n", "", { silent = true }) -- Unmap 'n'
-vim.keymap.set("n", "N", "", { silent = true }) -- Unmap 'N'
-vim.keymap.set("v", "i", "", { silent = true }) -- Unmap 'i' for visual mode
-vim.keymap.set("v", "k", "", { silent = true }) -- Unmap 'k' for visual mode
-vim.keymap.set("o", "i", "", { silent = true }) -- Unmap 'i' for operator mode
+keymap("n", "n", "", { silent = true }) -- Unmap 'n'
+keymap("n", "N", "", { silent = true }) -- Unmap 'N'
+keymap("v", "i", "", { silent = true }) -- Unmap 'i' for visual mode
+keymap("v", "k", "", { silent = true }) -- Unmap 'k' for visual mode
+keymap("o", "i", "", { silent = true }) -- Unmap 'i' for operator mode
 
 -- Normal mode mappings
-vim.keymap.set("n", "k", "nzzzv", { silent = true })
-vim.keymap.set("n", "K", "Nzzzv", { silent = true })
-vim.keymap.set("n", "u", "i", { silent = true })
-vim.keymap.set("n", "m", "h", { silent = true })
-vim.keymap.set("n", "n", "gj", { silent = true }) -- Remap 'n' to 'j'
-vim.keymap.set("n", "e", "gk", { silent = true })
-vim.keymap.set("n", "i", "l", { silent = true })
-vim.keymap.set("n", "l", "u", { silent = true })
+keymap("n", "k", "nzzzv", { silent = true })
+keymap("n", "K", "Nzzzv", { silent = true })
+keymap("n", "u", "i", { silent = true })
+keymap("n", "m", "h", { silent = true })
+keymap("n", "n", "gj", { silent = true }) -- Remap 'n' to 'j'
+keymap("n", "e", "gk", { silent = true })
+keymap("n", "i", "l", { silent = true })
+keymap("n", "l", "u", { silent = true })
 
 -- Visual mode mappings
-vim.keymap.set("v", "u", "i", { silent = true })
-vim.keymap.set("v", "n", "j", { silent = true })
-vim.keymap.set("v", "e", "k", { silent = true })
-vim.keymap.set("v", "i", "l", { noremap = true, silent = true })
-vim.keymap.set("v", "m", "h", { silent = true })
+keymap("v", "u", "i", { silent = true })
+keymap("v", "n", "j", { silent = true })
+keymap("v", "e", "k", { silent = true })
+keymap("v", "i", "l", { noremap = true, silent = true })
+keymap("v", "m", "h", { silent = true })
 
 -- Operator-pending mode mappings
-vim.keymap.set("o", "u", "i", { silent = true })
-vim.keymap.set("o", "n", "j", { silent = true })
-vim.keymap.set("o", "e", "k", { silent = true })
-vim.keymap.set("o", "i", "l", { silent = true })
-vim.keymap.set("o", "m", "h", { silent = true })
+keymap("o", "u", "i", { silent = true })
+keymap("o", "n", "j", { silent = true })
+keymap("o", "e", "k", { silent = true })
+keymap("o", "i", "l", { silent = true })
+keymap("o", "m", "h", { silent = true })
 
 -- Convenient keymaps
 
-vim.keymap.set('n', '<leader>.', ':update<CR> :source<CR>')
-vim.keymap.set({ "n", "v", "x" }, ";", ":", { desc = "Self explanatory" })
-vim.keymap.set({ "n", "v", "x" }, ":", ";", { desc = "Self explanatory" })
-vim.keymap.set('n', '<leader>w', ':write<CR>')
-vim.keymap.set('n', '<leader>q', ':quit<CR>')
-vim.keymap.set('i', '<C-i>', '<ESC>', { silent = true })
-vim.keymap.set('n', '<leader>lf', vim.lsp.buf.format)
-vim.keymap.set('n', 'f', 'e', { silent = true })
-vim.keymap.set('n', 'ci', 'ci', { silent = true })
-vim.keymap.set('n', 'vi', 'vi', { silent = true })
-vim.keymap.set('n', 'di', 'di', { silent = true })
-vim.keymap.set("n", "<leader>si", function() Snacks.image.hover() end, { desc = "Image Hover" })
-vim.keymap.set("n", "<leader>lg", function() Snacks.lazygit() end)
+keymap('n', '<leader>.', ':update<CR> :source<CR>')
+keymap({ "n", "v", "x" }, ";", ":", { desc = "Self explanatory" })
+keymap({ "n", "v", "x" }, ":", ";", { desc = "Self explanatory" })
+keymap('n', '<leader>w', ':write<CR>')
+keymap('n', '<leader>q', ':quit<CR>')
+keymap('i', '<C-i>', '<ESC>', { silent = true })
+keymap('n', '<leader>lf', vim.lsp.buf.format)
+keymap('n', 'f', 'e', { silent = true })
+keymap('n', 'ci', 'ci', { silent = true })
+keymap('n', 'vi', 'vi', { silent = true })
+keymap('n', 'di', 'di', { silent = true })
+keymap("x", "N", ":m '>+1<CR>gv=gv", { silent = true, desc = "Move visual block down" })
+keymap("x", "E", ":m '<-2<CR>gv=gv", { silent = true, desc = "Move visual block up" })
+keymap("x", ">", ">gv", { silent = true, desc = "Increase indent of visual block" })
+keymap("x", "<", "<gv", { silent = true, desc = "Decrease indent of visual block" })
+keymap("n", "<leader>si", function() Snacks.image.hover() end, { desc = "Image Hover" })
+keymap("n", "<leader>lg", function() Snacks.lazygit() end)
+keymap("n", "<leader>bd", ":Bdelete<cr>", { silent = true, desc = "Close current buffer" })
+keymap("n", "<bs>", "<C-^>", { silent = true, desc = "Switch to previous buffer" })
 
 --File navigation keymaps
-vim.keymap.set('n', '<leader>e', builtin.find_files, { desc = 'Telescope find files' })
-vim.keymap.set('n', '<leader>g', builtin.live_grep, { desc = 'Telescope live grep' })
-vim.keymap.set('n', '<leader>sd', builtin.diagnostics, { desc = 'Telescope diagnostics' })
-vim.keymap.set('n', '<leader>H', builtin.help_tags, { desc = 'Telescope help tags' })
-vim.keymap.set('n', '<leader>F', ':Oil<CR>', { silent = true })
-vim.keymap.set('n', '<leader>f', ':lua require("oil").toggle_float()<CR>', { silent = true })
+keymap('n', '<leader>e', function() Snacks.picker.files({ cwd = vim.fn.stdpath("config") }) end)
+keymap('n', '<leader>E', function() Snacks.picker.files() end)
+keymap('n', '<leader>dg', function() Snacks.picker.git_files() end)
+keymap('n', '<leader>g', function() Snacks.picker.grep() end)
+keymap('n', '<leader>sd', function() Snacks.picker.diagnostics() end)
+keymap('n', '<leader>H', function() Snacks.picker.help() end)
+keymap('n', '<leader>F', ':Oil<CR>', { silent = true })
+keymap('n', '<leader>f', ':lua require("oil").toggle_float()<CR>', { silent = true })
 
 --Zettelkasten scripts
-local ext = require("telescope").extensions.orgmode
-vim.keymap.set("n", "<leader>bh", ext.search_headings, { desc = "Org headlines" })
-vim.keymap.set("n", "<leader>bt", ext.search_tags, { desc = "Org tags" })
-vim.keymap.set("n", "<leader>r", ext.refile_heading, { desc = "Org refile" })
-vim.keymap.set("n", "<leader>li", ext.insert_link, { desc = "Org insert link" })
+local tom = require("telescope-orgmode")
+tom.setup({ adapter = "snacks" })
+
+vim.keymap.set("n", "<leader>bh", tom.search_headings, { desc = "Org headlines" })
+vim.keymap.set("n", "<leader>bt", tom.search_tags, { desc = "Org tags" })
+vim.keymap.set("n", "<leader>r", tom.refile_heading, { desc = "Org refile" })
+vim.keymap.set("n", "<leader>li", tom.insert_link, { desc = "Org insert link" })
 
 --Navigation keymaps
-vim.keymap.set('n', '<C-d>', '<C-d>zz')
-vim.keymap.set('n', '<C-u>', '<C-u>zz')
-vim.keymap.set('n', 'G', 'Gzz')
-vim.keymap.set({ 'n', 'v', 'x' }, 'zk', '<cmd>lua require("flash").jump()<CR>', { desc = "Self explanatory" })
-vim.keymap.set("n", "<leader>rc", pack_clean)
+keymap('n', '<C-d>', '<C-d>zz')
+keymap('n', '<C-u>', '<C-u>zz')
+keymap('n', 'G', 'Gzz')
+keymap({ 'n', 'v', 'x' }, 'zk', '<cmd>lua require("flash").jump()<CR>', { desc = "Self explanatory" })
+keymap("n", "<leader>sc", pack_clean)
 vim.g.tmux_navigator_no_mappings = 1
-vim.keymap.set('n', '<C-m>', ':TmuxNavigateLeft<cr>', {silent = true})
-vim.keymap.set('n', '<C-n>', ':TmuxNavigateDown<cr>', {silent = true})
-vim.keymap.set('n', '<C-e>', ':TmuxNavigateUp<cr>', {silent = true})
-vim.keymap.set('n', '<C-i>', ':TmuxNavigateRight<cr>', {silent = true})
+keymap('n', '<C-m>', ':TmuxNavigateLeft<cr>', { silent = true })
+keymap('n', '<C-n>', ':TmuxNavigateDown<cr>', { silent = true })
+keymap('n', '<C-e>', ':TmuxNavigateUp<cr>', { silent = true })
+keymap('n', '<C-i>', ':TmuxNavigateRight<cr>', { silent = true })
 
 vim.api.nvim_create_autocmd("BufWinEnter", {
     pattern = "*.jsx,*.tsx",
