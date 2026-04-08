@@ -70,18 +70,18 @@ require("org-roam").setup({
 - %?
             ]],
             target = "index/%[slug].org"
-        }
-    },
-    f = {
-        description = "fleeting",
-        template = [[
+        },
+        f = {
+            description = "fleeting",
+            template = [[
 #+date: %<%Y-%m-%d>
 #+filetags: :fleeting:
 
 * Note
 %?
         ]],
-        target = "fleeting/%[slug].org"
+            target = "fleeting/%[slug].org"
+        },
     },
     extensions = {
         dailies = {

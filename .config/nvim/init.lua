@@ -19,7 +19,7 @@ vim.o.ignorecase = true
 vim.o.cursorcolumn = false
 vim.o.hlsearch = false
 vim.o.incsearch = true
-vim.o.scrolloff = 10
+vim.o.scrolloff = 8
 vim.o.updatetime = 50
 vim.opt.conceallevel = 2
 vim.opt.concealcursor = 'nc'
@@ -45,8 +45,8 @@ vim.pack.add({
     { src = 'https://github.com/windwp/nvim-ts-autotag' },
     { src = 'https://github.com/saghen/blink.cmp' },
     { src = "https://github.com/nvim-treesitter/nvim-treesitter-textobjects" },
-    { src = 'https://github.com/xiyaowong/transparent.nvim' },
     { src = 'https://github.com/neovim/nvim-lspconfig' },
+    { src = 'https://github.com/leath-dub/snipe.nvim'},
     { src = 'https://github.com/MeanderingProgrammer/render-markdown.nvim' },
     { src = 'https://github.com/nvim-treesitter/nvim-treesitter',            version = "main" },
     { src = 'https://github.com/mason-org/mason.nvim' },
@@ -57,6 +57,7 @@ vim.pack.add({
 
 require "everforest".setup({
     background = "soft",
+    transparent_background_level = 1,
 })
 
 local function pack_clean()
@@ -166,24 +167,30 @@ require("oil").setup({
         show_hidden = true,
     },
     keymaps = {
-        ["g?"] = "actions.show_help",
+        ["g?"] = { "actions.show_help", mode = "n" },
         ["<CR>"] = "actions.select",
-        ["q"] = "actions.close",
+        ["<C-s>"] = { "actions.select", opts = { vertical = true } },
+        ["<C-h>"] = { "actions.select", opts = { horizontal = true } },
+        ["<C-t>"] = { "actions.select", opts = { tab = true } },
+        ["<C-p>"] = "actions.preview",
+        ["q"] = { "actions.close", mode = "n" },
         ["<C-l>"] = "actions.refresh",
-        ["-"] = "actions.parent",
-        ["_"] = "actions.open_cwd",
-        ["`"] = "actions.cd",
-        ["~"] = { "actions.cd", opts = { scope = "tab" }, desc = ":tcd to the current oil directory" },
-        ["gs"] = "actions.change_sort",
+        ["-"] = { "actions.parent", mode = "n" },
+        ["_"] = { "actions.open_cwd", mode = "n" },
+        ["`"] = { "actions.cd", mode = "n" },
+        ["g~"] = { "actions.cd", opts = { scope = "tab" }, mode = "n" },
+        ["gs"] = { "actions.change_sort", mode = "n" },
         ["gx"] = "actions.open_external",
-        ["g."] = "actions.toggle_hidden",
-        ["g\\"] = "actions.toggle_trash",
+        ["g."] = { "actions.toggle_hidden", mode = "n" },
+        ["g\\"] = { "actions.toggle_trash", mode = "n" },
     },
+    use_default_keymaps = true,
     float = {
         padding = 4,
     },
 })
 
+require("snipe").setup()
 
 local group = vim.api.nvim_create_augroup("BlinkCmpLazyLoad", { clear = true })
 
@@ -274,7 +281,6 @@ keymap("o", "i", "l", { silent = true })
 keymap("o", "m", "h", { silent = true })
 
 -- Convenient keymaps
-
 keymap('n', '<leader>.', ':update<CR> :source<CR>')
 keymap({ "n", "v", "x" }, ";", ":", { desc = "Self explanatory" })
 keymap({ "n", "v", "x" }, ":", ";", { desc = "Self explanatory" })
@@ -296,8 +302,8 @@ keymap("n", "<leader>bd", ":Bdelete<cr>", { silent = true, desc = "Close current
 keymap("n", "<bs>", "<C-^>", { silent = true, desc = "Switch to previous buffer" })
 
 --File navigation keymaps
-keymap('n', '<leader>e', function() Snacks.picker.files({ cwd = vim.fn.stdpath("config") }) end)
-keymap('n', '<leader>E', function() Snacks.picker.files() end)
+keymap('n', '<leader>e', function() Snacks.picker.files() end)
+keymap('n', '<leader>E', function() Snacks.picker.files({ cwd = vim.fn.stdpath("config") }) end)
 keymap('n', '<leader>dg', function() Snacks.picker.git_files() end)
 keymap('n', '<leader>g', function() Snacks.picker.grep() end)
 keymap('n', '<leader>sd', function() Snacks.picker.diagnostics() end)
@@ -325,6 +331,7 @@ keymap('n', '<C-m>', ':TmuxNavigateLeft<cr>', { silent = true })
 keymap('n', '<C-n>', ':TmuxNavigateDown<cr>', { silent = true })
 keymap('n', '<C-e>', ':TmuxNavigateUp<cr>', { silent = true })
 keymap('n', '<C-i>', ':TmuxNavigateRight<cr>', { silent = true })
+keymap('n', "gb", require("snipe").open_buffer_menu)
 
 vim.api.nvim_create_autocmd("BufWinEnter", {
     pattern = "*.jsx,*.tsx",
