@@ -1,7 +1,7 @@
 require("orgmode").setup({
     org_agenda_files = '~/orgfiles/**/*',
     org_default_notes_file = '~/orgfiles/refile.org',
-    org_highlight_latex_and_related = 'native',
+    org_highlight_latex_and_related = 'entities',
     win_split_mode = 'vertical',
 })
 require("org-roam").setup({
@@ -110,3 +110,8 @@ require("org-roam").setup({
 })
 
 require('org-bullets').setup()
+
+require('orgmode-babel').setup({
+    langs = {"c", "javascript", "lua", "c++", "svelte", "typescript" },
+    load_paths = {}
+})

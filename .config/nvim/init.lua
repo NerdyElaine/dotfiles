@@ -22,7 +22,6 @@ vim.o.incsearch = true
 vim.o.scrolloff = 8
 vim.o.updatetime = 50
 vim.opt.conceallevel = 2
-vim.opt.concealcursor = 'nc'
 vim.opt.clipboard:append("unnamedplus")
 vim.o.undodir = os.getenv("HOME") .. "/.vim/undodir"
 vim.o.undofile = true
@@ -40,23 +39,48 @@ vim.pack.add({
     { src = 'https://github.com/nvim-orgmode/org-bullets.nvim' },
     { src = 'https://github.com/nvim-orgmode/telescope-orgmode.nvim' },
     { src = 'https://github.com/chipsenkbeil/org-roam.nvim' },
+    { src = 'https://github.com/mrshmllow/orgmode-babel.nvim'},
+    { src = "https://github.com/chentoast/marks.nvim" },
     { src = 'https://github.com/folke/snacks.nvim' },
     { src = 'https://github.com/nvim-mini/mini.nvim' },
+    { src = 'https://github.com/y3owk1n/warp.nvim'},
     { src = 'https://github.com/windwp/nvim-ts-autotag' },
     { src = 'https://github.com/saghen/blink.cmp' },
     { src = "https://github.com/nvim-treesitter/nvim-treesitter-textobjects" },
     { src = 'https://github.com/neovim/nvim-lspconfig' },
-    { src = 'https://github.com/leath-dub/snipe.nvim'},
     { src = 'https://github.com/MeanderingProgrammer/render-markdown.nvim' },
     { src = 'https://github.com/nvim-treesitter/nvim-treesitter',            version = "main" },
     { src = 'https://github.com/mason-org/mason.nvim' },
     { src = 'https://github.com/folke/flash.nvim' },
+    { src = "https://github.com/mfussenegger/nvim-dap" },
+	{ src = "https://github.com/rcarriga/nvim-dap-ui" },
+	{ src = "https://github.com/theHamsta/nvim-dap-virtual-text" },
+	{ src = "https://github.com/julianolf/nvim-dap-lldb" },
+    { src = "https://github.com/nvim-neotest/nvim-nio" },
     { src = 'https://github.com/norcalli/nvim-colorizer.lua' },
-    { src = 'https://github.com/goolord/alpha-nvim' },
 })
 
+require("dap-lldb").setup()
+local dap, dapui = require("dap"), require("dapui")
+
+dap.listeners.after.event_initialized["dapui_config"] = function()
+	dapui.open()
+end
+dap.listeners.before.event_terminated["dapui_config"] = function()
+	dapui.close()
+end
+dap.listeners.before.event_exited["dapui_config"] = function()
+	dapui.close()
+end
+
+vim.keymap.set({ 'n' }, '<Leader>d', ':DapNew<CR>')
+vim.keymap.set({ 'n', 'i' }, '<C-b>', ':DapToggleBreakpoint<CR>')
+require "marks".setup {
+	builtin_marks = { "<", ">", "^" },
+}
+
 require "everforest".setup({
-    background = "soft",
+    background = "hard",
     transparent_background_level = 1,
 })
 
@@ -141,17 +165,15 @@ require("mini.surround").setup()
 
 require("snack")
 
-require("orgmode").setup({
-    org_agenda_files = '~/orgfiles/**/*',
-    org_default_notes_file = '~/orgfiles/inbox.org',
-    org_highlight_latex_and_related = 'native',
-})
-
 require("org-mode")
+
+local tom = require("telescope-orgmode")
+tom.setup({ adapter = "snacks" })
 
 vim.g.vimtex_view_method = "sioyek"
 vim.g.vimtex_callback_progpath = "~/.local/share/bob/nvim-bin/nvim"
 
+require("warp").setup()
 
 require("oil").setup({
     default_file_explorer = true,
@@ -190,7 +212,6 @@ require("oil").setup({
     },
 })
 
-require("snipe").setup()
 
 local group = vim.api.nvim_create_augroup("BlinkCmpLazyLoad", { clear = true })
 
@@ -240,8 +261,6 @@ vim.api.nvim_create_autocmd('FileType', {
     callback = function() vim.treesitter.start() end,
 })
 
-
-require("dashboard")
 require("autocmd")
 require("statusline")
 
@@ -252,25 +271,24 @@ local keymap = vim.keymap.set
 -- Unmap 'n' and 'N' in normal mode to disable their default search navigation
 keymap("n", "n", "", { silent = true }) -- Unmap 'n'
 keymap("n", "N", "", { silent = true }) -- Unmap 'N'
-keymap("v", "i", "", { silent = true }) -- Unmap 'i' for visual mode
 keymap("v", "k", "", { silent = true }) -- Unmap 'k' for visual mode
 keymap("o", "i", "", { silent = true }) -- Unmap 'i' for operator mode
 
 -- Normal mode mappings
 keymap("n", "k", "nzzzv", { silent = true })
 keymap("n", "K", "Nzzzv", { silent = true })
-keymap("n", "u", "i", { silent = true })
 keymap("n", "m", "h", { silent = true })
 keymap("n", "n", "gj", { silent = true }) -- Remap 'n' to 'j'
 keymap("n", "e", "gk", { silent = true })
 keymap("n", "i", "l", { silent = true })
+keymap("n", "u", "i", { silent = true })
 keymap("n", "l", "u", { silent = true })
 
 -- Visual mode mappings
 keymap("v", "u", "i", { silent = true })
 keymap("v", "n", "j", { silent = true })
 keymap("v", "e", "k", { silent = true })
-keymap("v", "i", "l", { noremap = true, silent = true })
+keymap("v", "i", "l", { silent = true })
 keymap("v", "m", "h", { silent = true })
 
 -- Operator-pending mode mappings
@@ -302,23 +320,34 @@ keymap("n", "<leader>bd", ":Bdelete<cr>", { silent = true, desc = "Close current
 keymap("n", "<bs>", "<C-^>", { silent = true, desc = "Switch to previous buffer" })
 
 --File navigation keymaps
-keymap('n', '<leader>e', function() Snacks.picker.files() end)
+keymap('n', '<leader>e', function() Snacks.picker.files({ hidden = true}) end)
 keymap('n', '<leader>E', function() Snacks.picker.files({ cwd = vim.fn.stdpath("config") }) end)
-keymap('n', '<leader>dg', function() Snacks.picker.git_files() end)
+keymap('n', '<leader>gg', function() Snacks.picker.git_files() end)
 keymap('n', '<leader>g', function() Snacks.picker.grep() end)
 keymap('n', '<leader>sd', function() Snacks.picker.diagnostics() end)
 keymap('n', '<leader>H', function() Snacks.picker.help() end)
 keymap('n', '<leader>F', ':Oil<CR>', { silent = true })
 keymap('n', '<leader>f', ':lua require("oil").toggle_float()<CR>', { silent = true })
+keymap('n', '<leader>ha', '<cmd>WarpAddFile<cr>')
+keymap('n', '<leader>hA', '<cmd>WarpAddOnScreenFiler<cr>')
+keymap('n', '<leader>hd', '<cmd>WarpDelFile<cr>')
+keymap('n', '<leader>he', '<cmd>WarpShowList<cr>')
+keymap('n', '<leader>1', '<cmd>WarpGoToIndex 1<cr>')
+keymap('n', '<leader>2', '<cmd>WarpGoToIndex 2<cr>')
+keymap('n', '<leader>3', '<cmd>WarpGoToIndex 3<cr>')
+keymap('n', '<leader>4', '<cmd>WarpGoToIndex 4<cr>')
+keymap('n', '<leader>5', '<cmd>WarpGoToIndex 5<cr>')
+keymap('n', '<leader>6', '<cmd>WarpGoToIndex 6<cr>')
+keymap('n', '<leader>7', '<cmd>WarpGoToIndex 7<cr>')
+keymap('n', '<leader>8', '<cmd>WarpGoToIndex 8<cr>')
+keymap('n', '<leader>9', '<cmd>WarpGoToIndex 9<cr>')
 
 --Zettelkasten scripts
-local tom = require("telescope-orgmode")
-tom.setup({ adapter = "snacks" })
 
-vim.keymap.set("n", "<leader>bh", tom.search_headings, { desc = "Org headlines" })
-vim.keymap.set("n", "<leader>bt", tom.search_tags, { desc = "Org tags" })
-vim.keymap.set("n", "<leader>r", tom.refile_heading, { desc = "Org refile" })
-vim.keymap.set("n", "<leader>li", tom.insert_link, { desc = "Org insert link" })
+keymap("n", "<leader>bh", function() tom.search_headings({ mode = "orgfiles" }) end, { desc = "Org headlines" })
+keymap("n", "<leader>bt", function() tom.search_tags({ mode = "orgfiles" }) end, { desc = "Org tags" })
+keymap("n", "<leader>r", tom.refile_heading, { desc = "Org refile" })
+keymap("n", "<leader>li", tom.insert_link, { desc = "Org insert link" })
 
 --Navigation keymaps
 keymap('n', '<C-d>', '<C-d>zz')
@@ -331,7 +360,6 @@ keymap('n', '<C-m>', ':TmuxNavigateLeft<cr>', { silent = true })
 keymap('n', '<C-n>', ':TmuxNavigateDown<cr>', { silent = true })
 keymap('n', '<C-e>', ':TmuxNavigateUp<cr>', { silent = true })
 keymap('n', '<C-i>', ':TmuxNavigateRight<cr>', { silent = true })
-keymap('n', "gb", require("snipe").open_buffer_menu)
 
 vim.api.nvim_create_autocmd("BufWinEnter", {
     pattern = "*.jsx,*.tsx",

@@ -1,6 +1,9 @@
 require("snacks").setup({
     picker = {
         enabled = true,
+        matcher = {
+            fuzzy = true,
+        },
         focus = "input",
         win = {
             input = {

@@ -5,6 +5,8 @@ DIRS=(
     "$HOME/Library/Mobile\ Documents/com~apple~CloudDocs"
     "$HOME/documents/projects"
     "$HOME/dev/personalwebsite"
+    "$HOME/dev/"
+    "$HOME/orgfiles/"
     "$HOME"
 )
 

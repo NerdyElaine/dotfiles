@@ -10,10 +10,11 @@ dashboard.section.header.val = {
 }
 
 dashboard.section.buttons.val = {
-	dashboard.button("t", "󰱽 Find file", ":Telescope find_files <CR>"),
+	dashboard.button("t", "󰱽 Find file",function() Snacks.picker.files() end),
 	dashboard.button("k", "  New file", ":ene <BAR> startinsert <CR>"),
-	dashboard.button("c", " Config", ":Oil ~/dotfiles/.config/nvim<CR>"),
-	dashboard.button("s", "󰯂 Browse Scripts", ":Oil ~/dotfiles/scripts/<CR>"),
+	dashboard.button("n", "󱞁 Notes", function() require("telescope-orgmode").search_headings({ mode = "orgfiles" }) end),
+	dashboard.button("c", " Config", function() Snacks.picker.files({ cwd = vim.fn.stdpath("config") }) end),
+	dashboard.button("s", "󰯂 Browse Scripts", function() Snacks.picker.files({cwd = "~/dotfiles/scripts/"}) end),
 	dashboard.button("q", "󰅙  Quit", ":q!<CR>"),
 }
 
