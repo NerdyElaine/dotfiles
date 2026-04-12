@@ -46,7 +46,6 @@ vim.pack.add({
     { src = 'https://github.com/y3owk1n/warp.nvim'},
     { src = 'https://github.com/windwp/nvim-ts-autotag' },
     { src = 'https://github.com/saghen/blink.cmp' },
-    { src = "https://github.com/nvim-treesitter/nvim-treesitter-textobjects" },
     { src = 'https://github.com/neovim/nvim-lspconfig' },
     { src = 'https://github.com/MeanderingProgrammer/render-markdown.nvim' },
     { src = 'https://github.com/nvim-treesitter/nvim-treesitter',            version = "main" },
@@ -156,6 +155,8 @@ require('nvim-ts-autotag').setup({
         }
     }
 })
+
+require("mini.ai").setup()
 
 require("mini.icons").setup()
 
